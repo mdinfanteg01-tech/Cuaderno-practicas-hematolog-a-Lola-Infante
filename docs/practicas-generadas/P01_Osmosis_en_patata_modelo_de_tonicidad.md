@@ -103,12 +103,12 @@ Cuando no se enlaza un PNT operativo local, estos documentos públicos aportan c
 
 ## 7. Datos de realización [ALUMNADO · RELLENABLE · DURANTE]
 
-- **Nombre y apellidos:** [Escribe tu nombre y apellidos]
-- **Fecha real de realización:** [dd/mm/aaaa]
-- **Grupo:** [Indica tu grupo]
-- **Pareja de trabajo, si procede:** [Indica el nombre o «Trabajo individual»]
-- **Rol o tarea principal:** [Describe tu participación]
-- **Modalidad realmente realizada:** [Real autorizada / demostración / simulada / documental; describe]
+- **Nombre y apellidos:** Lola Infante Garcia
+- **Fecha real de realización:** 29/09/2026
+- **Grupo:** 2º LCB
+- **Pareja de trabajo, si procede:** Pareja / Ambra
+- **Rol o tarea principal:** Técnico
+- **Modalidad realmente realizada:** Real autorizada 
 - **Código o descripción del material/dataset:** [Completa sin incluir datos personales o clínicos]
 
 ## 8. Preparación y análisis inicial [ALUMNADO · RELLENABLE · DURANTE]
@@ -119,9 +119,9 @@ Cuando no se enlaza un PNT operativo local, estos documentos públicos aportan c
 |---|---|
 | Autorización o modalidad asignada | [Completa] |
 | PNT, fuente o material docente consultado | [Completa; indica versión si consta] |
-| Equipo/material realmente utilizado | [Completa o «No aplica»] |
-| Medidas de seguridad aplicadas | [Completa o «No aplica»] |
-| Condición de los datos (real/simulada/documental) | [Completa] |
+| Equipo/material realmente utilizado | Papel vegetal, vasos de precipitado, probeta, vidrio de reloj, balanza, espátula, cuchillo, NaCl, H2O, patata. |
+| Medidas de seguridad aplicadas |IPE Bata y guantes. |
+| Condición de los datos (real/simulada/documental) | Real |
 
 ### 8.2 Hipótesis u observación inicial
 
@@ -135,9 +135,9 @@ Indica qué esperas observar o resolver. Si trabajas con datos simulados o docum
 
 | Control o criterio | Evidencia observada o realizada | ¿Adecuado? | Justificación |
 |---|---|---|---|
-| Identificación y procedencia | [Completa] | [Sí / No / Parcial] | [Completa] |
-| Material, imagen o datos legibles | [Completa] | [Sí / No / Parcial] | [Completa] |
-| Gestión de residuos generados | [Completa] | [Sí / No / Parcial] | [Completa] |
+| Identificación y procedencia | Carrefour |
+| Material, imagen o datos legibles |  | Sí, Datos legibles |
+| Gestión de residuos generados |  | Sí. Depositandolos en sus correspondientes contenedores |
 
 ### 9.2 Registro de observaciones o cálculos
 
