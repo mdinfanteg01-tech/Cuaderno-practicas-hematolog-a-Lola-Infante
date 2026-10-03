@@ -127,7 +127,7 @@ Cuando no se enlaza un PNT operativo local, estos documentos públicos aportan c
 
 Indica qué esperas observar o resolver. Si trabajas con datos simulados o documentos, formula la expectativa con la información proporcionada.
 
-[Escribe aquí tu hipótesis u observación inicial.]
+Analizamos como se desplaza el agua a través de las membranas celulares según la concentración de la solución externa. El agua destilada (medio hipotónico). Entra en las células y se hincha gana peso y se vuelve rígida (turgencia). En el agua con sal (medio hipertónico). El agua sale de las células. La patata pierde peso, se reduce y queda blanda (plasmolisis).
 
 ## 9. Observaciones, controles y resultados [ALUMNADO · RELLENABLE · DURANTE]
 
