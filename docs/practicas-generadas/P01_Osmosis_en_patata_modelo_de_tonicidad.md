@@ -176,6 +176,7 @@ Añade entre **5 y 8 evidencias visuales** que cubran la preparación, las fases
 
   
 
+<img width="1200" height="1600" alt="WhatsApp Image 2026-09-29 at 14 06 10" src="https://github.com/user-attachments/assets/5a0416b2-49af-477a-88ed-1564fcb581a7" />
 ![Corte supervisado de porciones prismáticas de patata de 3 × 3 × 0,8 cm.](../assets/P01/P01_02_corte_porciones.jpg)
 
 *Figura 2. Porciones prismáticas cortadas y listas para agruparse por condición.*
