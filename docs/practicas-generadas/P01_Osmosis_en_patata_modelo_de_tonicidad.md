@@ -187,6 +187,7 @@ Añade entre **5 y 8 evidencias visuales** que cubran la preparación, las fases
 - **Pie de foto:** Registro de la masa inicial de cada grupo y colocación de tres porciones en cada recipiente, cubiertas por el medio correspondiente.
 - **Imagen del alumnado:** [Añade la imagen autorizada o escribe «No aplica» y explica.]
 
+<img width="1536" height="2040" alt="P01_03_pesada_inmersion" src="https://github.com/user-attachments/assets/52cc7162-320e-4067-a1b4-0ff73a0d5d1d" />
 ![Pesada inicial de los grupos de patata e inmersión separada en cada medio.](../assets/P01/P01_03_pesada_inmersion.jpg)
 
 *Figura 3. Grupos identificados al inicio de la inmersión en agua destilada y NaCl al 5 %.*
@@ -198,6 +199,7 @@ Añade entre **5 y 8 evidencias visuales** que cubran la preparación, las fases
 - **Pie de foto:** Tras 24 h, los grupos se retiran por separado, se secan con el mismo criterio y se registra la masa final de cada condición.
 - **Imagen del alumnado:** [Añade la imagen autorizada o escribe «No aplica» y explica.]
 
+<img width="1536" height="2048" alt="P01_04_retirada_pesada_final" src="https://github.com/user-attachments/assets/057b11d5-b7e4-49fe-8190-e975dfdf3150" />
 ![Porciones retiradas tras 24 horas, secadas superficialmente y pesadas por condición.](../assets/P01/P01_04_retirada_pesada_final.jpg)
 
 *Figura 4. Pesada final de los grupos, manteniendo separados los dos medios.*
@@ -209,6 +211,7 @@ Añade entre **5 y 8 evidencias visuales** que cubran la preparación, las fases
 - **Pie de foto:** Comparación de los grupos tras la inmersión y de sus masas iniciales y finales; anota el cambio observado sin extrapolarlo fuera del modelo vegetal.
 - **Imagen del alumnado:** [Añade la imagen autorizada o escribe «No aplica» y explica.]
 
+<img width="1536" height="2048" alt="P01_05_comparacion_resultados" src="https://github.com/user-attachments/assets/60610e53-3a0f-44dd-b20a-4b6ad5a287f7" />
 ![Comparación final de las porciones y de las masas iniciales y finales en ambos medios.](../assets/P01/P01_05_comparacion_resultados.jpg)
 
 *Figura 5. Resultado final de ambas condiciones y evidencia usada para la comparación.*
