@@ -173,7 +173,7 @@ Añade entre **5 y 8 evidencias visuales** que cubran la preparación, las fases
 - **Archivo previsto:** `../assets/P01/P01_02_corte_porciones.jpg`
 - **Texto alternativo:** Corte supervisado de porciones prismáticas de patata de 3 × 3 × 0,8 cm.
 - **Pie de foto:** Corte con bisturí o cuchilla y regla de seis porciones de patata sin piel, con dimensiones aproximadas de 3 × 3 × 0,8 cm.
-- **Imagen del alumnado:WhatsApp Image 2026-09-29 at 14.06.10.jpeg
+
   
 
 ![Corte supervisado de porciones prismáticas de patata de 3 × 3 × 0,8 cm.](../assets/P01/P01_02_corte_porciones.jpg)
