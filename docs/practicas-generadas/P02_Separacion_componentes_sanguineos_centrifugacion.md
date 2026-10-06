@@ -127,8 +127,8 @@ La ficha no dispone del modelo de centrífuga, rotor ni referencia comercial exa
 | Evaluación de riesgos y bioseguridad | [Medidas definidas con manual OMS y requisitos del centro; o modalidad alternativa] |
 | Compatibilidad tubo–rotor–centrífuga | Marca Nahita modelo2645|
 | RCF, tiempo, temperatura y freno aplicados | 15 min /  2000-3000 |
-| Protección, contención y gestión de residuos | [Completa o indica alternativa] |
-| Condición de los datos (real/simulada/documental) | [Completa] |
+| Protección, contención y gestión de residuos |EPI Bata y guantes. Contención en gradilla metálica. Clasificación de los residuos,  residuos biológicos en contenedor especifico de residuo biosanitario y lo demás en lo organico.|
+| Condición de los datos (real/simulada/documental) | Real, autorizado. |
 
 ### 8.2 Hipótesis u observación inicial
 
@@ -143,8 +143,8 @@ Indica qué esperas observar o resolver. Si trabajas con datos simulados o docum
 | Control o criterio | Evidencia observada o realizada | ¿Adecuado? | Justificación |
 |---|---|---|---|
 | Autorización, código anónimo y procedencia docente | [Completa] | [Sí / No / Parcial] | [Completa sin datos identificativos] |
-| Integridad del tubo y compatibilidad con rotor/adaptador | [Completa] | [Sí / No / Parcial] | [Completa] |
-| Parámetros transcritos del PNT o protocolo OMS y equilibrado | [Completa] | [Sí / No / Parcial] | [Completa] |
+| Integridad del tubo y compatibilidad con rotor/adaptador |  |
+| Parámetros transcritos del PNT o protocolo OMS y equilibrado | [Completa] | Sí  | [Completa] |
 | Transferencia, residuos y descontaminación según procedimiento y evaluación | [Completa] | [Sí / No / Parcial] | [Completa] |
 
 ### 9.2 Registro de observaciones o cálculos
