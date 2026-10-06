@@ -108,13 +108,13 @@ La ficha no dispone del modelo de centrífuga, rotor ni referencia comercial exa
 
 ## 7. Datos de realización [ALUMNADO · RELLENABLE · DURANTE]
 
-- **Nombre y apellidos:** [Escribe tu nombre y apellidos]
-- **Fecha real de realización:** [dd/mm/aaaa]
-- **Grupo:** [Indica tu grupo]
-- **Pareja de trabajo, si procede:** [Indica el nombre o «Trabajo individual»]
-- **Rol o tarea principal:** [Describe tu participación]
-- **Modalidad realmente realizada:** [Real autorizada / demostración / simulada / documental; describe]
-- **Código o descripción del material/dataset:** [Completa sin incluir datos personales o clínicos]
+- **Nombre y apellidos:** Lola Infante Garcia
+- **Fecha real de realización:** 06/10/2026
+- **Grupo:** 2º LCB
+- **Pareja de trabajo, si procede:** Pareja/Alison
+- **Rol o tarea principal:** Técnico
+- **Modalidad realmente realizada:* Real autorizada 
+- **Código o descripción del material/dataset:** Papel vegetal, pipeta Pasteur, gradilla, tubo, Muestra de sangre E001026048662.
 
 ## 8. Preparación y análisis inicial [ALUMNADO · RELLENABLE · DURANTE]
 
@@ -122,11 +122,11 @@ La ficha no dispone del modelo de centrífuga, rotor ni referencia comercial exa
 
 | Comprobación | Registro |
 |---|---|
-| Autorización de muestra real y código anónimo | [Completa sin datos del donante] |
-| Procedimiento de centrifugación aplicado | [PNT local: código/versión/fecha; o protocolo OMS si no existe PNT] |
+| Autorización de muestra real y código anónimo | E001026048662 |
+| Procedimiento de centrifugación aplicado | [PNT local: código/versión/fecha; o protocolo OMS si no existe PN |
 | Evaluación de riesgos y bioseguridad | [Medidas definidas con manual OMS y requisitos del centro; o modalidad alternativa] |
-| Compatibilidad tubo–rotor–centrífuga | [Marca/referencia del tubo, modelo, rotor y adaptador] |
-| RCF, tiempo, temperatura y freno aplicados | [Transcribe del PNT o del protocolo OMS si no existe; indica fuente] |
+| Compatibilidad tubo–rotor–centrífuga | Marca Nahita modelo2645|
+| RCF, tiempo, temperatura y freno aplicados | 15 min /  2000-3000 |
 | Protección, contención y gestión de residuos | [Completa o indica alternativa] |
 | Condición de los datos (real/simulada/documental) | [Completa] |
 
