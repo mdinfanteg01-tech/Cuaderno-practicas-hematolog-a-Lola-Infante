@@ -204,7 +204,8 @@ rc="https://github.com/user-attachments/assets/0ca6137c-44ac-4269-976d-2f16959be
 - **Pie de foto:** Carga equilibrada según el manual del equipo; registra si la RCF y el tiempo proceden del PNT local o del protocolo OMS, sin fotografiar identificadores.
 - **Imagen del alumnado:** [Añade la imagen autorizada o escribe «No aplica» y explica.]
 
-![Tubos y contrapesos distribuidos simétricamente en el rotor antes de cerrar la centrífuga.](../assets/P02/P02_03_carga_centrifuga.jpg)
+![Tubos y contrapesos distribuidos simétricamente en el rotor antes de cerrar la centrífuga.](../assets/P02/P02_03_carga_ce<img width="1536" height="2040" alt="P02 03 carga centrifuga" src="https://github.com/user-attachments/assets/c4f3d29e-cbd6-4368-a32c-66ac0da57426" />
+ntrifuga.jpg)
 
 *Figura 3. Disposición equilibrada inmediatamente antes del ciclo establecido por el PNT local o, si no existe, por el protocolo OMS.*
 
@@ -215,8 +216,7 @@ rc="https://github.com/user-attachments/assets/0ca6137c-44ac-4269-976d-2f16959be
 - **Pie de foto:** Aspecto de las fases después de detenerse el rotor; la capa leucoplaquetaria puede ser muy fina o no distinguirse con claridad.
 - **Imagen del alumnado:** [Añade la imagen autorizada o escribe «No aplica» y explica.]
 
-![Tubo cerrado tras el giro con plasma, interfaz leucoplaquetaria si es visible y eritrocitos sedimentados.](../assets/P02/P02_04_fases_separadas.jpg)
-
+![Tubo cerrado tras el giro con plasma, interfaz leucoplaquetaria si es visible y eritrocitos sedimentados.](../assets/P02/P02_0<img width="1536" height="2040" alt="P02 04 fases separadas" src="https://github.com/user-attachments/assets/0f0e987c-209a-42a9-9d2f-0cf6478f759f" />
 *Figura 4. Fases observadas en el tubo primario sin agitar ni abrirlo para la fotografía.*
 
 ### Imagen 5 — Trasvase docente del plasma
