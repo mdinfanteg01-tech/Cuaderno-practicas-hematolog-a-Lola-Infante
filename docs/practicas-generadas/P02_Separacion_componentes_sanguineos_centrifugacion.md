@@ -216,8 +216,7 @@ ntrifuga.jpg)
 - **Pie de foto:** Aspecto de las fases después de detenerse el rotor; la capa leucoplaquetaria puede ser muy fina o no distinguirse con claridad.
 - **Imagen del alumnado:** [Añade la imagen autorizada o escribe «No aplica» y explica.]
 
-![Tubo cerrado tras el giro con plasma, interfaz leucoplaquetaria si es visible y eritrocitos sedimentados.](../assets/P02/P02_0<img width="1536" height="2040" alt="P02 04 fases separadas" src="https://github.com/user-attachments/assets/0f0e987c-209a-42a9-9d2f-0cf6478f759f" />
-*Figura 4. Fases observadas en el tubo primario sin agitar ni abrirlo para la fotografía.*
+<img width="1200" height="1600" alt="P02 04 fases separadas (2)" src="https://github.com/user-attachments/assets/edcb0d52-105a-4dcd-bb2f-9a8d8090db1c" />*Figura 4. Fases observadas en el tubo primario sin agitar ni abrirlo para la fotografía.*
 
 ### Imagen 5 — Trasvase docente del plasma
 
