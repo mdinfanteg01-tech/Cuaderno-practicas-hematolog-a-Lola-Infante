@@ -190,6 +190,9 @@ sto.jpg)
 - **Imagen del alumnado:** [Añade la imagen autorizada o escribe «No aplica» y explica.]
 
 ![Comprobación del tubo cerrado, adaptador, rotor y parámetros del PNT local o protocolo OMS.](../assets/P02/P02_02_comprobacion_equipo.jpg)
+<img width="1536" height="2040" alt="P02 02comprobaciónequipos" src="https://github.com/user-attachments/assets/83f333bd-620a-49a4-963d-a3abe2ab92f6" />
+<img width="1536" height="2040" alt="P02 02comprobaciónequipos" s<img width="1536" height="2040" alt="P02  02 comprobación  equipos " src="https://github.com/user-attachments/assets/8912ecfa-c7bb-4a84-84be-e5d5ce09eee0" />
+rc="https://github.com/user-attachments/assets/0ca6137c-44ac-4269-976d-2f16959be96b" />
 
 *Figura 2. Equipo y tubo comprobados antes del giro; protege cualquier identificador de la muestra.*
 
