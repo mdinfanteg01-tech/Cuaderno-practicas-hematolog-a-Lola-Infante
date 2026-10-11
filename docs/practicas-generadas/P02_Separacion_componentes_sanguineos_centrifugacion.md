@@ -225,8 +225,7 @@ ntrifuga.jpg)
 - **Texto alternativo:** Transferencia del plasma a un tubo secundario codificado, evitando la interfaz celular.
 - **Pie de foto:** Plasma transferido al tubo secundario con el mismo código anónimo; la pipeta se detuvo antes de aspirar la capa leucoplaquetaria o los eritrocitos.
 - **Imagen del alumnado:** [Añade la imagen autorizada o escribe «No aplica» y explica.]
-
-![Transferencia del plasma a un tubo secundario codificado, evitando la interfaz celular.](../assets/P02/P02_05_trasvase_plasma.jpg)
+<img width="1600" height="1200" alt="P02 05 trasvase plasma " src="https://github.com/user-attachments/assets/343a5ae8-ce24-4917-b72e-9ec0486c83b5" />do, evitando la interfaz celular.](../assets/P02/P02_05_trasvase_plasma.jpg)
 
 *Figura 5. Resultado del trasvase y correspondencia entre tubo secundario y código anónimo.*
 
