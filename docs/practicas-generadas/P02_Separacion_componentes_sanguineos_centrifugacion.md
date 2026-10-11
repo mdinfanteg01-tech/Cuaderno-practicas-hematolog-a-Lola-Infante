@@ -174,7 +174,8 @@ Añade entre **5 y 8 evidencias visuales** que cubran la preparación, las fases
 - **Pie de foto:** Muestra docente codificada y material preparado antes de la centrifugación; no deben aparecer etiquetas, nombres ni números de donación.
 - **Imagen del alumnado:** [Añade la imagen autorizada o escribe «No aplica» y explica.]
 
-![Tubo EDTA codificado sin datos identificativos y material dispuesto para la práctica supervisada.](../assets/P02/P02_01_muestra_puesto.jpg)
+![Tubo EDTA codificado sin datos identificativos y material dispuesto para la práctica supervisada.](../assets/P02/P02_01_muestra_pue<img width="1536" height="2040" alt="P02 01 muestra puesto" src="https://github.com/user-attachments/assets/ccfe82f6-a400-43fa-b42c-39e04090c8ad" />
+sto.jpg)
 
 *Figura 1. Preparación de la muestra docente y el puesto, con cualquier dato del donante fuera de encuadre.*
 
@@ -235,6 +236,8 @@ Puedes añadir hasta tres evidencias más si documentan otros pasos relevantes; 
 Explica qué capas observaste en la muestra real con EDTA y cómo la centrifugación las separó. Relaciona la transferencia con la preservación de la interfaz celular, y distingue plasma de componentes transfusionales preparados mediante procesos validados. Separa observación e inferencia; no atribuyas esterilidad, ausencia de plaquetas ni utilidad clínica a la muestra.
 
 [Escribe aquí tu interpretación técnica.]
+<img width="1536" height="2040" alt="P02 01 muestra puesto" src="https://github.com/user-attachments/assets/02afaaf1-27f3-4572-858b-39a03c587bef" />
+<img width="1536" height="2040" alt="P02 01 muestra puesto" src="https://github.com/user-attachments/assets/3d5a701d-c561-4009-abcd-131524e654f2" />
 
 ## 13. Conclusión [ALUMNADO · RELLENABLE · DESPUÉS]
 
