@@ -137,8 +137,7 @@ La ficha no dispone del modelo de centrífuga, rotor ni referencia comercial exa
 ### 8.2 Hipótesis u observación inicial
 
 Indica qué esperas observar o resolver. Si trabajas con datos simulados o documentos, formula la expectativa con la información proporcionada.
-
-[Escribe aquí tu hipótesis u observación inicial.]
+La fuerza centrifuga acelera la sedimentación de las partículas. Como los eritrocitos son células mas densas y numerosas se irán al fondo. El plasma al ser mayoritariamente agua y proteinas disueltas, es el menos denso y permanecerá arriba.
 
 ## 9. Observaciones, controles y resultados [ALUMNADO · RELLENABLE · DURANTE]
 
@@ -146,18 +145,18 @@ Indica qué esperas observar o resolver. Si trabajas con datos simulados o docum
 
 | Control o criterio | Evidencia observada o realizada | ¿Adecuado? | Justificación |
 |---|---|---|---|
-| Autorización, código anónimo y procedencia docente | [Completa] | [Sí / No / Parcial] | [Completa sin datos identificativos] |
-| Integridad del tubo y compatibilidad con rotor/adaptador |  |
-| Parámetros transcritos del PNT o protocolo OMS y equilibrado | [Completa] | Sí  | [Completa] |
-| Transferencia, residuos y descontaminación según procedimiento y evaluación | [Completa] | [Sí / No / Parcial] | [Completa] |
+| Autorización, código anónimo y procedencia docente | | Sí  | Muestra de código anónimo y procedencia docente |
+| Integridad del tubo y compatibilidad con rotor/adaptador |Tubo de cristal con dimensiones compatibles con la centrifuga. |
+| Parámetros transcritos del PNT o protocolo OMS y equilibrado | Velocidad centrifuga 2500 a 3500 rpm aprox. Tiempo 15 min. |
+| Transferencia, residuos y descontaminación según procedimiento y evaluación | | Clasificación, los residuos biológicos se acumulan en contenedores rígidos herméticos, especiales para residuos líquidos. Se desinfecto la mesa de trabajo y la centrifuga. |
 
 ### 9.2 Registro de observaciones o cálculos
 
 | Observación, variable o cálculo | Dato/evidencia | Unidad o criterio | Modalidad/origen | Comentario |
-|---|---|---|---|---|
-| Código anónimo de muestra | [Completa] | [Sin datos del donante] | [Real autorizada] | [Completa] |
-| Tubo, centrífuga, rotor y adaptador | [Completa] | [Marca/modelo] | [Real / alternativa] | [Completa] |
-| RCF, tiempo, temperatura y freno | [Completa] | [× g / min / °C / ajuste] | [PNT local o protocolo OMS] | [Completa] |
+|---|---|---|---|---|.
+| Código anónimo de muestra |  | Codigo anónimo. Sin datos del donante. | Real autorizada | |
+| Tubo, centrífuga, rotor y adaptador |  | Nahita. | Real  |  |
+| RCF, tiempo, temperatura y freno | Tiempo 15 minutos. |  | [PNT local o protocolo OMS] | [Completa] |
 | Aspecto antes y después del giro | [Completa] | [Descripción visual] | [Real / imagen / simulación] | [Completa] |
 | Fases reconocidas y transferencia de plasma | [Completa] | [Posición / volumen si se mide] | [Real / demostración / documental] | [Completa] |
 
