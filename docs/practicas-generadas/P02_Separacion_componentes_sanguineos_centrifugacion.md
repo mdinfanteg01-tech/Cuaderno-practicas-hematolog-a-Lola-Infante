@@ -1,3 +1,4 @@
+<img width="1536" height="2040" alt="P02 03 carga centrifuga" src="https://github.com/user-attachments/assets/d42ad7d3-89b5-479b-9dcc-7f9067443016" />
 <img width="1536" height="2040" alt="P02 02comprobaciónequipos" src="https://github.com/user-attachments/assets/5fc5df24-f64f-467b-be6c-ce258ee860de" />
 <img width="1536" height="2040" alt="P02 02comprobaciónequipos" src="https://github.com/user-attachments/assets/37fc0c6d-dab7-4acb-9fff-eab7aba5dd7c" />
 title: "P02 — Separación de componentes sanguíneos por centrifugación"
