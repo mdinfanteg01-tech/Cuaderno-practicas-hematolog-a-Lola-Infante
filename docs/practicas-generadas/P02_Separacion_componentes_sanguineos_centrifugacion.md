@@ -130,7 +130,7 @@ La ficha no dispone del modelo de centrífuga, rotor ni referencia comercial exa
 | Procedimiento de centrifugación aplicado | [PNT local: código/versión/fecha; o protocolo OMS si no existe PN |
 | Evaluación de riesgos y bioseguridad | [Medidas definidas con manual OMS y requisitos del centro; o modalidad alternativa] |
 | Compatibilidad tubo–rotor–centrífuga | Marca Nahita modelo2645|
-| RCF, tiempo, temperatura y freno aplicados | 15 min /  2000-3000 |
+| RCF, tiempo, temperatura y freno aplicados | 15 min /  2000-3000 / Temperatura entre 15ºC y 25ºC |
 | Protección, contención y gestión de residuos |EPI Bata y guantes. Contención en gradilla metálica. Clasificación de los residuos,  residuos biológicos en contenedor especifico de residuo biosanitario y lo demás en lo organico.|
 | Condición de los datos (real/simulada/documental) | Real, autorizado. |
 
@@ -156,15 +156,20 @@ La fuerza centrifuga acelera la sedimentación de las partículas. Como los erit
 |---|---|---|---|---|.
 | Código anónimo de muestra |  | Codigo anónimo. Sin datos del donante. | Real autorizada | |
 | Tubo, centrífuga, rotor y adaptador |  | Nahita. | Real  |  |
-| RCF, tiempo, temperatura y freno | Tiempo 15 minutos. |  | [PNT local o protocolo OMS] | [Completa] |
-| Aspecto antes y después del giro | [Completa] | [Descripción visual] | [Real / imagen / simulación] | [Completa] |
-| Fases reconocidas y transferencia de plasma | [Completa] | [Posición / volumen si se mide] | [Real / demostración / documental] | [Completa] |
+| RCF, tiempo, temperatura y freno | Tiempo 15 minutos. |  | 2000a 3000 rpm |Temperatura entre 15ºC y 25ºC |
+| Aspecto antes y después del giro | Aspecto antes color rojizo entero |  Después del giro dividido en tres fases | Real / imagen |  |
+| Fases reconocidas y transferencia de plasma | Tres fases | [Posición / volumen si se mide] | Real  | |
 
 ### 9.3 Resultado principal
 
 Resume el resultado y especifica qué procede de observación real, demostración, imagen, dato simulado o análisis documental. Incluye un esquema rotulado de las fases observadas e indica si la capa leucoplaquetaria se distinguió claramente.
 
-[Escribe aquí el resultado principal.]
+El resultado `procede de observación real, las imágenes son reales. La capa leucocitaria no se distinguía muy claramente.
+Esquema:
+Plasma  55%
+Fase leucocitaria o glóbulos blancos y plaquetas 1%
+Fase de Eritrocitos o glóbulos rojos 44%
+
 
 ## 10. Evidencias visuales [ALUMNADO · RELLENABLE · DURANTE Y DESPUÉS]
 
@@ -233,13 +238,13 @@ Puedes añadir hasta tres evidencias más si documentan otros pasos relevantes; 
 
 | Incidencia, error o duda | Posible causa | Medida aplicada o propuesta | ¿Afectó al resultado? |
 |---|---|---|---|
-| [Completa o escribe «No se detectaron incidencias»] | [Completa] | [Completa] | [Sí / No; explica] |
+| «No se detectaron incidencias»|  | [Completa] |  No |
 
 ## 12. Interpretación técnica [ALUMNADO · RELLENABLE · DESPUÉS]
 
 Explica qué capas observaste en la muestra real con EDTA y cómo la centrifugación las separó. Relaciona la transferencia con la preservación de la interfaz celular, y distingue plasma de componentes transfusionales preparados mediante procesos validados. Separa observación e inferencia; no atribuyas esterilidad, ausencia de plaquetas ni utilidad clínica a la muestra.
 
-[Escribe aquí tu interpretación técnica.]
+Se observan tres capas, plasma, capa leucocitaria y capa de eritrocitos, aunque el plasma tiene un color rojizo debido a la lisis de eritrocitos.
 <img width="1536" height="2040" alt="P02 01 muestra puesto" src="https://github.com/user-attachments/assets/02afaaf1-27f3-4572-858b-39a03c587bef" />
 <img width="1536" height="2040" alt="P02 01 muestra puesto" src="https://github.com/user-attachments/assets/3d5a701d-c561-4009-abcd-131524e654f2" />
 
@@ -247,7 +252,7 @@ Explica qué capas observaste en la muestra real con EDTA y cómo la centrifugac
 
 Indica si identificaste las fases y realizaste el trasvase previsto; respáldalo con registros y evidencias. Señala las desviaciones del PNT o del protocolo OMS aplicado, la calidad de la separación y por qué el resultado de aula no certifica un componente transfusional.
 
-[Escribe aquí tu conclusión.]
+A diferencia del resultado teórico esperado, el plasma obtenido presentó una coloración rojiza, lo que evidencia un proceso de hemólisis. Esto indica la ruptura de la membrana de los eritrocitos y la consecuente liberación de hemoglobina en la fase liquida. Este fenómeno altera la pureza visual de las capas y pueden atribuirse a errores técnicos durante el procedimiento o condiciones propias de la muestra. Siendo la mas probable tiempo de espera prolongado, se han dejado pasar demasiadas horas entre la extracción de sangre y la centrifugación.
 
 ## 14. Reflexión profesional [ALUMNADO · RELLENABLE · DESPUÉS]
 
@@ -255,35 +260,37 @@ Responde individualmente y relaciona cada respuesta con datos, observaciones o i
 
 **1. Procedimiento:** ¿Qué paso del manejo de la muestra o de la centrifugación exigió más cuidado y cómo comprobaste que se hizo correctamente? ¿Qué medidas de bioseguridad específicas aplicaste durante el destaponado de los tubos y el trasvase de líquidos?
 
-   [Respuesta del alumnado]
+   La centrifugadora gira a miles de revoluciones por minutos RPM. Si los tubos colocados en posición opuestas no tienen exactamente la misma masa, se genera un desequilibrio de fuerzas debido a la inercia. Esto puede dañar el rotor del equipo, romper los tubos de vidrio (lo que derramaría material biológico contaminante) y poner en riesgo la seguridad de quienes están en el laboratorio.
+   Como medidas de bioseguridad se comprobaron que los tubos de contrapeso igualaran el peso exacto.
 
 **2. Interpretación:** ¿Qué fases has distinguido tras la centrifugación y qué representa cada una? Observa detenidamente el color y la claridad del sobrenadante obtenido. ¿Presenta alguna alteración (como tonos rojizos por hemólisis, amarillentos intensos por ictericia o aspecto lechoso por lipemia) en comparación con las fotografías de referencia de un plasma normal?
 
-   [Respuesta del alumnado]
+   Se distinguen tres fases, Plasma que representa un 55%, capa leucocitaria que representa 1% y capa de eritrocitos en el fondo que representan un volumen de 45%. El plasma es de color rojo por hemólisis. Esta 
 
 **3. Conclusiones:** Localiza en tus observaciones la capa leucoplaquetaria (buffy coat). ¿Por qué su grosor es tan fino en proporción al resto, y qué indicaría desde un punto de vista clínico si en una muestra esa capa fuera inusualmente gruesa? ¿Qué habría ocurrido con las fases observadas si la muestra de sangre se hubiera recogido en un tubo sin anticoagulante (tubo de suero)? Justifica tu respuesta explicando la diferencia fundamental entre plasma y suero.
 
-   [Respuesta del alumnado]
-
+   La capa leucocitaria es tan fina debido a la proporción numérica y de volumen que ocupan las células que la componen en comparación con el resto de elementos que la componen. Desde el punto de vista clínico, una capa leucocitaria notablemente mas gruesa es una señal de alarma que indica un aumento masivo en el recuento de glóbulos blancos o plaquetas y puede estar debido a una infección o procesos inflamatorios severos, puede ser leucemia (neoplasia hematológica) o por reacciones leucemoides por alergias graves.
+   Si la muestra de sangre se hubiera recogido en un tubo sin anticoagulante(conocido como tubo de suero). Se observarían dos fases, en la superior el suero, liquido sobrenadante translucido, en este caso también se hubiera visto rojizo, pero la diferencia es que esta completamente libre de factores de coagulación y fibrinógenos. En el fondo del tubo veríamos un coagulo retenido que atrapa en su interior glóbulos rojos, glóbulos blancos y plaquetas todos juntos.
+   
 **4. Aprendizaje y transferencia:** ¿Qué técnica hematológica o preanalítica requiere separar plasma de células? Explica y justifica tu respuesta.
 
-   [Respuesta del alumnado]
+   La técnica preanalítica principal que requiere separar estrictamente el plasma de las células es la obtención de Plasma Pobre en Plaquetas (PPP), destinada prioritariamente a las pruebas de la cascada de coagulación y de hemostasia (como el Tiempo de Protombina (TP), el tiempo de Tromboplastina Parcial Activa (TTPA) y la cuantificación de Fibrinógeno. Tambien en pruebas bioquimicas de urgencia (como la medición de potasio o de glucosa), donde separar el plasma de forma inmediata evita alteraciones metabólicas in vitro.
 
 ## 15. Trazabilidad y entrega [ALUMNADO · RELLENABLE · DESPUÉS]
 
 | Campo | Registro del alumnado |
 |---|---|
 | Identificador de práctica | `P02` |
-| Fecha | [dd/mm/aaaa] |
+| Fecha | [06/10/2026] |
 | UD / RA / CE | `UD7 / RA07 / CE07.c` |
-| Agrupamiento | [Individual / pareja; especifica] |
+| Agrupamiento | pareja/ Alison |
 | Modalidad y origen de evidencia | [Completa] |
-| Materiales, equipo o fuente usados | [Completa o «No aplica»] |
-| Controles | [Resume o enlaza al apartado 9.1] |
-| Resultado | [Resume o enlaza al apartado 9.3] |
-| Interpretación | [Resume o enlaza al apartado 12] |
-| Incidencias y acciones | [Resume o enlaza al apartado 11] |
-| Ruta de residuos | [Completa o «No aplica»] |
+| Materiales, equipo o fuente usados | Papel vegetal, rejillas, tubo de vidrio, pipeta Pasteur |
+| Controles |  apartado 9.1 |
+| Resultado | apartado 9.3 |
+| Interpretación |  apartado 12 |
+| Incidencias y acciones |  apartado 11 |
+| Ruta de residuos |  «No aplica» |
 | Estado de entrega | [Borrador / pendiente de revisión / entregado / corregido] |
 
 
