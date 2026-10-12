@@ -147,7 +147,7 @@ La fuerza centrifuga acelera la sedimentación de las partículas. Como los erit
 |---|---|---|---|
 | Autorización, código anónimo y procedencia docente | | Sí  | Muestra de código anónimo y procedencia docente |
 | Integridad del tubo y compatibilidad con rotor/adaptador |Tubo de cristal con dimensiones compatibles con la centrifuga. |
-| Parámetros transcritos del PNT o protocolo OMS y equilibrado | Velocidad centrifuga 2500 a 3500 rpm aprox. Tiempo 15 min. |
+| Parámetros transcritos del PNT o protocolo OMS y equilibrado | Velocidad centrifuga 2000 a 3000 rpm aprox. Tiempo 15 min. |
 | Transferencia, residuos y descontaminación según procedimiento y evaluación | | Clasificación, los residuos biológicos se acumulan en contenedores rígidos herméticos, especiales para residuos líquidos. Se desinfecto la mesa de trabajo y la centrifuga. |
 
 ### 9.2 Registro de observaciones o cálculos
@@ -265,7 +265,7 @@ Responde individualmente y relaciona cada respuesta con datos, observaciones o i
 
 **2. Interpretación:** ¿Qué fases has distinguido tras la centrifugación y qué representa cada una? Observa detenidamente el color y la claridad del sobrenadante obtenido. ¿Presenta alguna alteración (como tonos rojizos por hemólisis, amarillentos intensos por ictericia o aspecto lechoso por lipemia) en comparación con las fotografías de referencia de un plasma normal?
 
-   Se distinguen tres fases, Plasma que representa un 55%, capa leucocitaria que representa 1% y capa de eritrocitos en el fondo que representan un volumen de 45%. El plasma es de color rojo por hemólisis. Esta 
+   Se distinguen tres fases, Plasma que representa un 55%, capa leucocitaria que representa 1% y capa de eritrocitos en el fondo que representan un volumen de 45%. El plasma es de color rojo por hemólisis. El plasma normal es mas transparente, debe ser de un color amarillento translucido. Al contrastar nuestra muestra, se confirma una alteración evidente por tonos rojizos de hemólisis. 
 
 **3. Conclusiones:** Localiza en tus observaciones la capa leucoplaquetaria (buffy coat). ¿Por qué su grosor es tan fino en proporción al resto, y qué indicaría desde un punto de vista clínico si en una muestra esa capa fuera inusualmente gruesa? ¿Qué habría ocurrido con las fases observadas si la muestra de sangre se hubiera recogido en un tubo sin anticoagulante (tubo de suero)? Justifica tu respuesta explicando la diferencia fundamental entre plasma y suero.
 
