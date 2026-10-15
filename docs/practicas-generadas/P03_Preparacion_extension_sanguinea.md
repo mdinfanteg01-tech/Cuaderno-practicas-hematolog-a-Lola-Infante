@@ -127,11 +127,11 @@ Enumera los recursos que vas a utilizar y los residuos previstos. Escribe «No a
 |---|---|
 | Instrumental | Capilar heparinizado |
 | Equipos |  No aplica |
-| Reactivos/materiales | Portaobjetos,  extensor, material de transferencia autorizado, gradillas, muestra aprobada, gota de sangre propia, guantes, antiséptico si procede y material de limpieza |
+| Reactivos/materiales | Papel vegetal Portaobjetos,  extensor, material de transferencia autorizado, gradillas, muestra aprobada, gota de sangre propia, guantes, antiséptico  y  papel material de limpieza |
 
 | Residuo previsto | Tipo |
 |---|---|
-| [Enumera un residuo por fila; añade las filas necesarias o escribe «No aplica»] | [Urbanos o asimilables a los urbanos / Punzocortantes / Biológicos o infecciosos] |
+|  | Urbanos o asimilables a los urbanos / Punzocortantes /  |
 
 ## 9. Observaciones y resultados [ALUMNADO · RELLENABLE · DURANTE]
 
@@ -141,9 +141,9 @@ Registra los datos de tu actividad e indica si proceden de ejecución propia, de
 
 | Aspecto | Registro del alumnado |
 |---|---|
-| Cálculos (si procede) | [Indica qué calculas, los datos de partida con unidades, la fórmula u operación y el resultado con unidades] |
-| Configuración de equipos (si procede) | [Indica el equipo, los parámetros utilizados y sus valores con unidades cuando corresponda] |
-| Características del producto o resultado final | [Número de extensiones y comparación de longitud, grosor, homogeneidad, estrías, agujeros y borde de pluma; origen y límites] |
+| Cálculos (si procede) | No procede |
+| Configuración de equipos (si procede) | No procede |
+| Características del producto o resultado final | [Número de extensiones  dos y comparación de longitud, grosor, homogeneidad, estrías, agujeros y borde de pluma; origen y límites] |
 
 ## 10. Evidencias visuales [ALUMNADO · RELLENABLE · DURANTE Y DESPUÉS]
 
@@ -151,8 +151,8 @@ Añade entre **5 y 8 evidencias visuales** que cubran la preparación, las fases
 
 ### Imagen 1 — Materiales y preparación inicial
 
-- **Archivo previsto:** `../assets/P03/P03_01_preparacion.jpg`
-- **Texto alternativo:** Documenta los materiales y la preparación inicial de la actividad asignada.
+- **Archivo previsto:** `../assets/P03<img width="1600" height="1200" alt="P03_ 01_preparación" src="https://github.com/user-attachments/assets/16ea2d52-6d4a-4573-8ec3-64a42e1cac7e" />`
+- **Texto alternativo:** Papel vegetal  y la preparación inicial de la actividad asignada.
 - **Pie de foto:** [Describe lo que se observa en Preparación de extensión sanguínea, el momento, el origen/modalidad y qué conclusión limitada apoya.]
 - **Imagen del alumnado:** [Añade la imagen autorizada o escribe «No aplica» y explica.]
 
@@ -160,7 +160,7 @@ Añade entre **5 y 8 evidencias visuales** que cubran la preparación, las fases
 
 ### Imagen 2 — Portaobjetos correctamente rotulado
 
-- **Archivo previsto para el alumnado:** `../assets/P03/P03_02_identificacion.jpg`
+- **Archivo previsto para el alumnado:** `../assets/<img width="1536" height="2040" alt="P03_02_identificación" src="https://github.com/user-attachments/assets/35e4c932-8daa-4823-a253-e2d15263f60d" />`
 - **Texto alternativo:** Portaobjetos del alumno rotulado con código de práctica, fecha y nombre o iniciales antes de añadir sangre.
 - **Pie de foto:** [Describe lo que se observa en Preparación de extensión sanguínea, el momento, el origen/modalidad y qué conclusión limitada apoya.]
 - **Imagen del alumnado:** [Añade la imagen autorizada o escribe «No aplica» y explica.]
@@ -169,7 +169,7 @@ Añade entre **5 y 8 evidencias visuales** que cubran la preparación, las fases
 
 ### Imagen 3 — Gota de sangre en el portaobjetos
 
-- **Archivo previsto para el alumnado:** `../assets/P03/P03_03_gota_porta.jpg`
+- **Archivo previsto para el alumnado:** `../assets/<img width="1200" height="1600" alt="P03_ 03_gota_porta" src="https://github.com/user-attachments/assets/4d317e33-ae73-47ac-bcaa-b99c0e67cb33" />`
 - **Texto alternativo:** Vista superior de una gota pequeña de sangre cerca de un extremo del portaobjetos, con espacio para colocar el extensor.
 - **Pie de foto:** [Describe lo que se observa en Preparación de extensión sanguínea, el momento, el origen/modalidad y qué conclusión limitada apoya.]
 - **Imagen del alumnado:** [Añade la imagen autorizada o escribe «No aplica» y explica.]
@@ -178,7 +178,7 @@ Añade entre **5 y 8 evidencias visuales** que cubran la preparación, las fases
 
 ### Imagen 4 — Colocación y angulación del extensor
 
-- **Archivo previsto para el alumnado:** `../assets/P03/P03_04_angulacion_extensor.jpg`
+- **Archivo previsto para el alumnado:** `../assets/P03/<img width="1320" height="1038" alt="P03_04_angulación_exterior" src="https://github.com/user-attachments/assets/e80563e6-84b6-4100-9109-3bd2e4832c65" />`
 - **Texto alternativo:** Vista lateral del portaobjetos extensor inclinado entre 30 y 45 grados, con su borde en contacto con la gota del porta base.
 - **Pie de foto:** [Describe lo que se observa en Preparación de extensión sanguínea, el momento, el origen/modalidad y qué conclusión limitada apoya.]
 - **Imagen del alumnado:** [Añade la imagen autorizada o escribe «No aplica» y explica.]
@@ -187,7 +187,7 @@ Añade entre **5 y 8 evidencias visuales** que cubran la preparación, las fases
 
 ### Imagen 5 — Extensión final obtenida
 
-- **Archivo previsto para el alumnado:** `../assets/P03/P03_05_extension_final.jpg`
+- **Archivo previsto para el alumnado:** `../assets/P03/<img width="1536" height="2040" alt="P03_05_ extensión final" src="https://github.com/user-attachments/assets/9022eed2-9f0b-44b3-8a28-345bd62b789b" />`
 - **Texto alternativo:** Extensión sanguínea seca en cuña obtenida por el alumno, fotografiada completa para mostrar su cuerpo y borde de pluma.
 - **Pie de foto:** [Describe lo que se observa en Preparación de extensión sanguínea, el momento, el origen/modalidad y qué conclusión limitada apoya.]
 - **Imagen del alumnado:** [Añade la imagen autorizada o escribe «No aplica» y explica.]
