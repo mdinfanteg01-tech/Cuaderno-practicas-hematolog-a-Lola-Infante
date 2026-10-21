@@ -107,7 +107,7 @@ El frotis sanguíneo debe proceder de la [preparación P03](P03_Preparacion_exte
 - **Pareja de trabajo, si procede:**  «Trabajo individual»
 - **Rol o tarea principal:** Técnico
 - **Modalidad realmente realizada:** Real autorizada  
-- **Código o descripción del material/dataset:** [Completa sin incluir datos personales o clínicos]
+- **Código o descripción del material/dataset:** Kit Panóptico rápido CEIVD23ES 
 
 ## 8. Preparación y análisis inicial [ALUMNADO · RELLENABLE · DURANTE]
 
@@ -117,15 +117,15 @@ Enumera los recursos que vas a utilizar y los residuos previstos. Escribe «No a
 
 | Elemento | Listado del alumnado |
 |---|---|
-| Instrumental | [Portaobjetos con frotis P03, puente/gradilla de tinción, tres recipientes compatibles de boca ancha, papel absorbente, frasco lavador, pipeta Pasteur solo si el protocolo la requiere] |
-| Equipos | [Microscopio óptico; objetivo utilizado y aceite de inmersión si procede] |
-| Reactivos/materiales | [Kit panóptico rápido nº 1, nº 2 y nº 3; tampón/líquido de aclarado autorizado; EPI según FDS/PNT] |
+| Instrumental | Portaobjetos con frotis P03, puente/gradilla de tinción, tres recipientes compatibles de boca ancha, papel absorbente, frasco lavador, pipeta Pasteur solo si el protocolo la requiere |
+| Equipos | Microscopio óptico; objetivo utilizado y aceite de inmersión si procede|
+| Reactivos/materiales | Kit panóptico rápido nº 1, nº 2 y nº 3; tampón/líquido de aclarado autorizado; EPI según FDS/PNT |
 
 | Residuo previsto | Tipo |
 |---|---|
-| [Material desechable con sangre] | [Biológicos o infecciosos] |
-| [Portaobjetos roto contaminado, si lo hubiera] | [Punzocortantes] |
-| [Residuos no contaminados que el centro permita] | [Urbanos o asimilables a los urbanos] |
+| Material desechable con sangre | Biológicos o infecciosos. No aplica|
+| Portaobjetos roto contaminado, si lo hubiera | Punzocortantes. No aplica|
+| Residuos no contaminados que el centro permita | Urbanos o asimilables a los urbanos |
 
 Las soluciones de tinción y el papel con restos de reactivo pueden ser residuos químicos peligrosos: no se incluyen en los tres tipos de la tabla y se gestionan por la ruta específica que determinen las FDS y el centro. Escribe «No aplica» en las filas que no correspondan.
 
@@ -137,8 +137,8 @@ Registra los datos de tu actividad e indica si proceden de ejecución propia, de
 
 | Aspecto | Registro del alumnado |
 |---|---|
-| Cálculos (si procede) | [No aplica, salvo cálculo expresamente solicitado por el docente] |
-| Configuración de equipos (si procede) | [Identifica microscopio y objetivo empleados; anota solo la configuración realmente usada y el uso de aceite si procede] |
+| Cálculos (si procede) | No aplica |
+| Configuración de equipos (si procede) |  microscopio optico nº 8  y objetivo empleados ; anota solo la configuración realmente usada y el uso de aceite no procede. |
 | Características del producto o resultado final | [Describe zona de lectura, contraste, fondo, precipitados, artefactos y conservación celular; indica código P03, origen/anticoagulante, modalidad, control disponible e incidencias. No interpretes como diagnóstico.] |
 
 ## 10. Evidencias visuales [ALUMNADO · RELLENABLE · DURANTE Y DESPUÉS]
