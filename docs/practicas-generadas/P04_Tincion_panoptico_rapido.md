@@ -147,118 +147,23 @@ Incorpora las evidencias visuales indicadas a continuación, siempre que su capt
 
 ### Imagen 1 — Materiales
 
-- **Archivo previsto:** `../assets/P04/<img width="1600" height="1200" alt="P<img width="1600" height="1200" alt="<img width="1600" height="1200" alt="P04_01_materiales" src="https://github.com/user-attachments/assets/37974bc7-3f7e-4f9d-a4c4-d469e7e515c8" />" src="https://github.com/user-attachments/assets/2612ff24-e390-4ee5-9500-4e11a99ee00f" />" src="https://github.com/user-attachments/assets/1af4b26c-c99a-4036-a242-d9ab0562cfd8" />g`
+- **Archivo previsto:** `<img width="1600" height="1200" alt="P04_01_materiales" src="https://github.com/user-attachments/assets/10574e0b-a5b4-4907-8dd5-129457c6fd1c" />img width="1600" height="1200" alt="P<img width="1600" height="1200" alt="<img width="1600" height="1200" alt="P04_01_materiales" src="https://github.com/user-attachments/assets/37974bc7-3f7e-4f9d-a4c4-d469e7e515c8" />" src="https://github.com/user-attachments/assets/2612ff24-e390-4ee5-9500-4e11a99ee00f" />" src="https://github.com/user-attachments/assets/1af4b26c-c99a-4036-a242-d9ab0562cfd8" />g`
 - **Texto alternativo:** Materiales y equipos preparados para la tinción panóptico rápido.
 - **Pie de foto:** [Identifica el kit, los recipientes, el microscopio y el origen de la imagen.]
-- **Imagen del alumnado:** [Añade la imagen autorizada o escribe «No aplica» y explica.]
+- **Imagen del alumnado:** [Añade la imagen autorizada o escribe «No aplica» y exp
 
-![Materiales y equipos preparados para la tinción panóptico rápi1. Atemperar el Reactivo a temperatura ambiente.
-2. Pipetear en tubos de ensayo: (Nota 1)
-
-Blanco Patrón Muestra
-Patrón (S)  10 μL 
-Muestra   10 μL
-Reactivo (A) 1,0 mL 1,0 mL 1,0 mL
-3. Agitar bien e incubar los tubos durante 10 minutos a temperatura ambiente (16-25oC) o
-durante 5 minutos a 37oC.
-4. Leer la absorbancia (A) del Patrón y de la Muestra a 500 nm frente al Blanco. El color es
-estable durante al menos 2 horas.
-CÁLCULOS
-La concentración de glucosa en la muestra se calcula a partir de la siguiente fórmula general:
-
-Si se utiliza para calibrar el Patrón de Glucosa suministrado (Nota 2):
-x 100 = mg/dL glucosa
-x 5,55 = mmol/L glucosa
-
-VALORES DE REFERENCIA
-Suero y plasma2
-:
-Neonato, prematuro 25-80 mg/dL = 1,39-4,44 mmol/L
-Neonato, a término 30-90 mg/dL = 1,67-5,00 mmol/L
-Niños, adultos 70-105 mg/dL = 3,89-5,83 mmol/L
-
-Líquido cefalorraquídeo2
-:
-Niños 60-80 mg/dL = 3,33-4,44 mmol/L
-Adultos 40-70 mg/dL = 2,22-3,89 mmol/L
-Estos valores se dan únicamente a título orientativo; es recomendable que cada laboratorio
-establezca sus propios intervalos de referencia.
-Según el National Diabetes Data Group (US)3
-
-, valores de glucosa plasmática en ayunas
-superiores a 140 mg/dL (7,77 mmol/L) obtenidos en más de una ocasión, permiten el
-diagnóstico de diabetes mellitus.
-CONTROL DE CALIDAD
-Se recomienda el uso de los Sueros Control Bioquímica niveles I (cod. 18005, 18009 y 18042) y
-II (cod. 18007, 18010 y 18043), para verificar la funcionalidad del procedimiento de medida.
-Cada laboratorio debe establecer su propio programa de Control de Calidad interno, así como
-procedimientos de corrección en el caso de que los controles no cumplan con las tolerancias
-aceptables.
-CARACTERÍSTICAS METROLÓGICAS
- Límite de detección: 0,23 mg/dL = 0,0126 mmol/L
- Límite de linealidad: 500 mg/dL = 27,5 mmol/L. Cuando se obtengan valores superiores,
-diluir la muestra 1/4 con agua destilada y repetir la medición.
- Repetibilidad (intraserie):
-Concentración media CV n
-88 mg/dL = 4,84 mmol/L 1,2 % 20
-326 mg/dL = 17,93 mmol/L 0,9 % 20
- Reproducibilidad (interserie):
-Concentración media CV n
-88 mg/dL = 4,84 mmol/L 2,7 % 25
-326 mg/dL = 17,93 mmol/L 1,9 % 25
- Sensibilidad: 4 mAdL/mg = 0,22 mAL/mmol
- Veracidad: Los resultados obtenidos con estos reactivos no muestran diferencias
-sistemáticas significativas al ser comparados con reactivos de referencia (Nota 2). Los
-detalles del estudio comparativo están disponibles bajo solicitud.
- Interferencias: La hemólisis (hemoglobina hasta 300 mg/dL), la bilirrubina (hasta 10 mg/dL) y
-la lipemia (triglicéridos hasta 125 mg/dL) no interfieren. El àcido ascórbico (hasta 25 mg/dL)
-no interfiere. Otros medicamentos y sustancias pueden interferir4
-.
-
-Estos datos han sido obtenidos utilizando un analizador. Los resultados pueden variar al
-cambiar de instrumento o realizar el procedimiento manualmente.
-CARACTERÍSTICAS DIAGNÓSTICAS
-La glucosa es la principal fuente de energia del organismo. La insulina, producida en las células
-de los islotes del páncreas, facilita la entrada de glucosa en las células de los tejidos. Una
-deficiencia de insulina o una disminución de su actividad ocasiona un aumento de la glucosa en
-sangre.
-Se encuentran concentraciones elevadas de glucosa en suero o plasma en pacientes con
-diabetes mellitus (dependiente de insulina o no dependiente de insulina) y con otras
-condiciones o síndromes2,3
-.
-
-La hipoglucemia puede darse como respuesta al ayuno, o bien puede ser debida a fármacos,
-venenos, errores congénitos del metabolismo o gastrectomía previa2,5
-.
-
-El diagnóstico clínico no debe realizarse teniendo en cuenta el resultado de un único ensayo,
-sino que debe integrar los datos clínicos y de laboratorio.
-NOTAS
-1. Estos reactivos pueden utilizarse en la mayoría de analizadores automáticos. Solicite
-información a su distribuidor.
-2. La calibración con el patrón acuoso suministrado puede causar sesgos, especialmente en
-algunos analizadores. En estos casos, se recomienda calibrar usando un patrón de base
-sérica (Calibrador Bioquímica, cod. 18011 y 18044).
-BIBLIOGRAFÍA
-1. Trinder P. Determination of glucose in blood using glucose oxidase with an alternative
-oxygen acceptor. Ann Clin Biochem 1969; 6: 24-27.
-2. Tietz Textbook of Clinical Chemistry and Molecular Diagnostics, 4th ed. Burtis CA, Ashwood
-ER, Bruns DE. WB Saunders Co, 2005.
-3. National Diabetes Data Group: Classification and diagnosis of diabetes mellitus and other
-categories of glucose intolerance. Diabetes 1979; 28:1039-1057.
-4. Young DS. Effects of drugs on clinical laboratory tests, 5th ed. AACC Press, 2000.
-5. Friedman and Young. Effectsdo.](../assets<img width="1600" height="1200" alt="P04_01_materiales" src="https://github.com/user-attachments/assets/b5bf988a-0bb1-40ec-93f6-50b287707bac" />jpg)
+5. Friedman and Young. Effectsdo.](../assets<img width="1600" height="1200" alt="<img width="1600" height="1200" alt="P04_01_materiales" src="https://github.com/user-attachments/assets/578fbefa-d515-47cf-b9ea-2b2b543f584c" /> src="https://github.com/user-attachments/assets/b5bf988a-0bb1-40ec-93f6-50b287707bac" />jpg)
 
 *Figura 1. Materiales y equipos previstos para la práctica; indica qué se utilizó realmente.*
 
 ### Imagen 2 — Extensión sanguínea previa a la tinción
 
-- **Archivo previsto:** `../assets/P04/P04_02_extension_previa.jpg`
+- **Archivo previsto:** `../asset<img width="1320" height="1038" alt="P04_02_ extensión" src="https://github.com/user-attachments/assets/240fe7f6-01e1-4203-9ed4-2e5cee2676fb" />g`
 - **Texto alternativo:** Extensión sanguínea seca preparada en P03 antes de aplicar la tinción.
 - **Pie de foto:** [Indica el código no identificativo del frotis, su origen y si la imagen es propia o docente.]
 - **Imagen del alumnado:** [Añade la imagen autorizada o escribe «No aplica» y explica.]
 
-![Extensión sanguínea seca preparada en P03 antes de aplicar la tinción.](../assets/P04/P04_02_extension_previa.jpg)
+![Extensión sanguínea seca preparada en P03 antes de aplicar la tinción.](../<img width="1320" height="1038" alt=<img width="1320" height="1038" alt="P04_02_ extensión" src="https://github.com/user-attachments/assets/1eb901ea-57b6-4155-b97b-cad4a76b047e" />" src="https://github.com/user-attachments/assets/1786d08b-0bf3-4db8-8193-72f725619ae8" />)
 
 *Figura 2. Extensión sanguínea seca de P03, antes de iniciar la tinción.*
 
@@ -269,7 +174,7 @@ categories of glucose intolerance. Diabetes 1979; 28:1039-1057.
 - **Pie de foto:** [Indica en cuál de las tres soluciones se realiza la inmersión y el origen de la imagen.]
 - **Imagen del alumnado:** [Añade la imagen autorizada o escribe «No aplica» y explica.]
 
-![Portaobjetos con el frotis sumergido en una de las soluciones panópticas.](../assets/P04/P04_03_inmersion_colorante.jpg)
+![Portaobjetos con el frotis sumergido en una de las soluciones panópticas.](../assets/<img width="1200" height="1600" alt="WhatsApp Image 2026-10-20 at 14 26 13" src="https://github.com/user-attachments/assets/35458a91-9dd9-493e-b136-0a9362198404" />)
 
 *Figura 3. Inmersión del frotis en la solución indicada; identifica el colorante y la modalidad.*
 
@@ -280,18 +185,18 @@ categories of glucose intolerance. Diabetes 1979; 28:1039-1057.
 - **Pie de foto:** [Describe el aspecto general y la modalidad/origen de la imagen, sin atribuir hallazgos no observados.]
 - **Imagen del alumnado:** [Añade la imagen autorizada o escribe «No aplica» y explica.]
 
-![Extensión sanguínea tras completar la tinción panóptico rápido y el secado.](../assets/P04/P04_04_extension_tenida.jpg)
+![Extensión sanguínea tras completar la tinción panóptico rápido y el secado.](../asset<img width="1600" height="1200" alt="P04_extensionteñida" src="https://github.com/user-attachments/assets/5a970283-21a1-4670-a9cb-5c413ea22c92" />)
 
 *Figura 4. Aspecto general de la extensión teñida tras el secado.*
 
 ### Imagen 5 — Imagen microscópica de eritrocito
 
-- **Archivo previsto:** `../assets/P04/P04_05_eritrocito.jpg`
+- **Archivo previsto:** `../assets/P04/P<img width="1200" height="1600" alt="P04_eritrocitos" src="https://github.com/user-attachments/assets/4c2306f9-3743-4afe-abc0-e17745be3809" />`
 - **Texto alternativo:** Eritrocito observado en una extensión sanguínea teñida con panóptico rápido.
 - **Pie de foto:** [Indica si la microfotografía procede de la preparación propia o de material docente autorizado; añade aumento o escala solo si se conocen.]
 - **Imagen del alumnado:** [Añade la imagen autorizada o escribe «No aplica» y explica.]
 
-![Eritrocito observado en una extensión sanguínea teñida con panóptico rápido.](../assets/P04/P04_05_eritrocito.jpg)
+![Eritrocito observado en una extensión sanguínea teñida con panóptico rápido.](../assets<img width="1200" height="1600" alt="P04_05_eritrocitos" src="https://github.com/user-attachments/assets/e7554206-87e1-483d-8c67-8e06b28641fa" />)
 
 *Figura 5. Eritrocito en la extensión observada; identifica el origen de la microfotografía.*
 
