@@ -154,7 +154,7 @@ Añade entre **5 y 8 evidencias visuales** que cubran la preparación, las fases
 - **Archivo previsto:** `../assets/P03_ 01_preparación" src="https://github.com/user-attachments/assets/5d3689d9-7d19-4390-9fc7-515c29150008" /> src="https://github.com/user-attachments/assets/739caffe-1ba0-4087-8742-557448cf0bd9" />" src="https://github.com/user-attachments/assets/1eb0556c-87f2-4a16-8979-8692bf33692b" /> src="https://github.com/user-attachments/assets/16ea2d52-6d4a-4573-8ec3-64a" />`
 - **Texto alternativ42e1cac7eo:** Papel vegetal  y la preparación inicial de la actividad asignada.
 - **Pie de foto:** [Describe lo que se observa en Preparación de extensión sanguínea, el momento, el origen/modalidad y qué conclusión limitada apoya.]
-- **Imagen del alumnado:** <img width="1536" height="2040" alt="P03_05_ extensión final" src="https://github.com/user-attachments/assets/7f42fe1e-b2dc-421a-9696-1cf226a4a75c" />]
+- **Imagen del alumnado:** <img width="<img width="1600" height="1200" alt="P03_ 01_preparación" src="https://github.com/user-attachments/assets/d026b1b1-c71d-4079-9cd7-ba52b5d5cda0" />>]
 
 *Figura 1. ¿Qué materiales, fuente o condición se prepararon? Indica su procedencia y modalidad.*
 
