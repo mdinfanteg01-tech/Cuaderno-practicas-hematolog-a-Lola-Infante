@@ -197,7 +197,7 @@ P05_02_extension_previa
 - **Pie de foto:** [Documenta la preparación solo si está autorizada e identifica el origen de la imagen.]
 - **Imagen del alumnado:** [Añade la imagen autorizada o escribe «No aplica» si no se preparó la solución.]
 
-![Solución de Giemsa preparada extemporáneamente con parámetros validados localmente.](../assets/P05/P05_03_preparacion_Giemsa.jpg)
+![Solución de Giemsa preparada extemporáneamente con parámetros validados localmente.](../assets/P05/<img width="1536" height="2040" alt="P05_03_preparación_giemsa" src="https://github.com/user-attachments/assets/acb30793-89bb-4dc5-bc18-3b461b23020a" />.jpg)
 
 *Figura 3. Preparación extemporánea de Giemsa; indica si se realizó con parámetros autorizados.*
 
@@ -208,7 +208,7 @@ P05_02_extension_previa
 - **Pie de foto:** [Indica si la imagen documenta una ejecución real, una demostración o material docente autorizado.]
 - **Imagen del alumnado:** [Añade la imagen autorizada o escribe «No aplica» si no se realizó esta fase.]
 
-![Extensión sanguínea durante la fijación con metanol, si está autorizada.](../assets/P05/P05_04_fijacion_metanol.jpg)
+![Extensión sanguínea durante la fijación con metanol, si está autorizada.](../assets/P05/<img width="1536" height="2040" alt="P05_04 fijación _metanol" src="https://github.com/user-attachments/assets/9890ff88-e6ad-49fa-917e-9ff904850d02" />jpg)
 
 *Figura 4. Fijación de la extensión; indica la modalidad y la procedencia de la imagen.*
 
@@ -219,7 +219,7 @@ P05_02_extension_previa
 - **Pie de foto:** [Identifica la fase y el origen de la imagen; no incluyas parámetros no confirmados.]
 - **Imagen del alumnado:** [Añade la imagen autorizada o escribe «No aplica» si no se realizó esta fase.]
 
-![Extensión cubierta con solución de Giemsa durante la tinción autorizada.](../assets/P05/P05_05_aplicacion_Giemsa.jpg)
+![Extensión cubierta con solución de Giemsa durante la tinción autorizada.](../assets/P05/<img width="1536" height="2040" alt="P05_05_aplicación giemsa" src="https://github.com/user-attachments/assets/7be45b09-ade7-4ca6-a299-927b5fb775c9" />jpg)
 
 *Figura 5. Aplicación de Giemsa; indica la modalidad y la procedencia de la imagen.*
 
@@ -230,7 +230,7 @@ P05_02_extension_previa
 - **Pie de foto:** [Describe el aspecto general y la procedencia, sin atribuir hallazgos no observados.]
 - **Imagen del alumnado:** [Añade la imagen autorizada o escribe «No aplica» si no se obtuvo esta preparación.]
 
-![Extensión sanguínea tras completar la tinción de Giemsa y el secado.](../assets/P05/P05_06_extension_tenida.jpg)
+![Extensión sanguínea tras completar la tinción de Giemsa y el secado.](../assets/<img width="699" height="1200" alt="P05_06_extension teñida" src="https://github.com/user-attachments/assets/245e7578-4725-4c35-92e1-31a2f985d06a" />.jpg)
 
 *Figura 6. Aspecto general de la extensión teñida y seca; identifica su origen y modalidad.*
 
