@@ -175,7 +175,7 @@ Incluye entre **5 y 8 evidencias visuales** según la modalidad autorizada. Indi
 - **Pie de foto:** [Identifica el reactivo, los recipientes, el microscopio y el origen de la imagen.]
 - **Imagen del alumnado:** [Añade la imagen autorizada o escribe «No aplica» y explica.]
 
-![Materiales y equipos previstos para la tinción de Giemsa.](../assets/P05/P05_01_materiales.jpg)
+![Materiales y equipos previstos para la tinción de Giemsa.](../assets/P05<img width="1445" height="1088" alt="P05_01_materiales" src="https://github.com/user-attachments/assets/8a93d452-9235-415a-8ce0-ac98b269fbc6" />jpg)
 
 *Figura 1. Materiales y equipos previstos; indica cuáles se utilizaron realmente.*
 
