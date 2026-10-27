@@ -170,7 +170,7 @@ Incluye entre **5 y 8 evidencias visuales** según la modalidad autorizada. Indi
 
 ### Imagen 1 — Materiales y equipos
 
-- **Archivo previsto:** `../assets/P05/P05_01_materiales.jpg`
+- **Archivo previsto:** `../assets/P05/<img width="1445" height="1088" alt="P05_01_materiales" src="https://github.com/user-attachments/assets/12d3d47f-49ca-4abb-bbf6-20fdd5ae0db4" />`
 - **Texto alternativo:** Materiales y equipos previstos para la tinción de Giemsa.
 - **Pie de foto:** [Identifica el reactivo, los recipientes, el microscopio y el origen de la imagen.]
 - **Imagen del alumnado:** [Añade la imagen autorizada o escribe «No aplica» y explica.]
@@ -181,7 +181,7 @@ Incluye entre **5 y 8 evidencias visuales** según la modalidad autorizada. Indi
 
 ### Imagen 2 — Extensión sanguínea previa a la tinción
 
-- **Archivo previsto:** `../assets/P05/P05_02_extension_previa.jpg`
+- **Archivo previsto:** `../assets/P05/<img width="1200" height="1600" alt="P05_02_extension previa" src="https://github.com/user-attachments/assets/51fc3f1b-a70d-496b-8c9d-c0780971e184" />jpg`
 - **Texto alternativo:** Extensión sanguínea antes de aplicar la tinción de Giemsa.
 - **Pie de foto:** [Indica el código no identificativo del frotis, su procedencia y si la imagen es propia o docente.]
 - **Imagen del alumnado:** [Añade la imagen autorizada o escribe «No aplica» y explica.]
@@ -192,7 +192,7 @@ Incluye entre **5 y 8 evidencias visuales** según la modalidad autorizada. Indi
 
 ### Imagen 3 — Preparación extemporánea de la solución de Giemsa
 
-- **Archivo previsto:** `../assets/P05/P05_03_preparacion_Giemsa.jpg`
+- **Archivo previsto:** `../assets/P05/<img width="1536" height="2040" alt="P05_03_preparación_giemsa" src="https://github.com/user-attachments/assets/484c2790-2c07-4cea-b6e0-acce318018b9" />jpg`
 - **Texto alternativo:** Solución de Giemsa preparada extemporáneamente con parámetros validados localmente.
 - **Pie de foto:** [Documenta la preparación solo si está autorizada e identifica el origen de la imagen.]
 - **Imagen del alumnado:** [Añade la imagen autorizada o escribe «No aplica» si no se preparó la solución.]
@@ -203,7 +203,7 @@ Incluye entre **5 y 8 evidencias visuales** según la modalidad autorizada. Indi
 
 ### Imagen 4 — Fijación de la extensión
 
-- **Archivo previsto:** `../assets/P05/P05_04_fijacion_metanol.jpg`
+- **Archivo previsto:** `../assets/P05/<img width="1536" height="2040" alt="P05_04 fijación _metanol" src="https://github.com/user-attachments/assets/ff86e393-9d4b-4e8a-9b54-a5efd9c23a5c" />.jpg`
 - **Texto alternativo:** Extensión sanguínea durante la fijación con metanol, si está autorizada.
 - **Pie de foto:** [Indica si la imagen documenta una ejecución real, una demostración o material docente autorizado.]
 - **Imagen del alumnado:** [Añade la imagen autorizada o escribe «No aplica» si no se realizó esta fase.]
@@ -214,7 +214,7 @@ Incluye entre **5 y 8 evidencias visuales** según la modalidad autorizada. Indi
 
 ### Imagen 5 — Aplicación de la solución de Giemsa
 
-- **Archivo previsto:** `../assets/P05/P05_05_aplicacion_Giemsa.jpg`
+- **Archivo previsto:** `../assets/P05<img width="1536" height="2040" alt="P05_05_aplicación giemsa" src="https://github.com/user-attachments/assets/3f71a20b-75bf-4865-b2f5-b2633d84a32f" />jpg`
 - **Texto alternativo:** Extensión cubierta con solución de Giemsa durante la tinción autorizada.
 - **Pie de foto:** [Identifica la fase y el origen de la imagen; no incluyas parámetros no confirmados.]
 - **Imagen del alumnado:** [Añade la imagen autorizada o escribe «No aplica» si no se realizó esta fase.]
@@ -225,7 +225,7 @@ Incluye entre **5 y 8 evidencias visuales** según la modalidad autorizada. Indi
 
 ### Imagen 6 — Extensión teñida y seca
 
-- **Archivo previsto:** `../assets/P05/P05_06_extension_tenida.jpg`
+- **Archivo previsto:** `../assets/P05/<img width="699" height="1200" alt="P05_06_extension teñida" src="https://github.com/user-attachments/assets/f15759f5-8b57-4c63-808e-119593bcdea8" />jpg`
 - **Texto alternativo:** Extensión sanguínea tras completar la tinción de Giemsa y el secado.
 - **Pie de foto:** [Describe el aspecto general y la procedencia, sin atribuir hallazgos no observados.]
 - **Imagen del alumnado:** [Añade la imagen autorizada o escribe «No aplica» si no se obtuvo esta preparación.]
