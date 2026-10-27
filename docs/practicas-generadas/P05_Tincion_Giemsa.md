@@ -186,8 +186,8 @@ Incluye entre **5 y 8 evidencias visuales** según la modalidad autorizada. Indi
 - **Pie de foto:** [Indica el código no identificativo del frotis, su procedencia y si la imagen es propia o docente.]
 - **Imagen del alumnado:** [Añade la imagen autorizada o escribe «No aplica» y explica.]
 
-![Extensión sanguínea antes de aplicar la tinción de Giemsa.](../assets/P05/P05_02_extension_previa.jpg)
-
+![Extensión sanguínea antes de aplicar la tinción de Giemsa.](../assets/<img width="1200" height="1600" alt="P05_02_extension previa" src="https://github.com/user-attachments/assets/b094d275-4699-4ee8-9d06-4f4ca8b24fad" />jpg)
+P05_02_extension_previa
 *Figura 2. Extensión sanguínea antes de la tinción; identifica su procedencia y modalidad.*
 
 ### Imagen 3 — Preparación extemporánea de la solución de Giemsa
