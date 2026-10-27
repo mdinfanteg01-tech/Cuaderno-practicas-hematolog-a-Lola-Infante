@@ -163,7 +163,7 @@ Añade entre **5 y 8 evidencias visuales** que cubran la preparación, las fases
 - **Archivo previsto para el alumnado:** `../assets/P03_02_identificación" src="https://github.com/user-attachments/assets/ebce224a-e8cb-4244-8397-bd576f652e00" />" src="https://github.com/user-attachments/assets/0f10a1ba-e689-4853-914f-7ea3d7b2ae71" />" src="https://github.com/user-attachments/assets/bcd8522a-52ee-4732-b6fd-6a897df298e1" />" src="https://github.com/user-attachments/assets/35e4c932-8daa-4823-a253-e2d15263f60d" />`
 - **Texto alternativo:** Portaobjetos del alumno rotulado con código de práctica, fecha y nombre o iniciales antes de añadir sangre.
 - **Pie de foto:** [Describe lo que se observa en Preparación de extensión sanguínea, el momento, el origen/modalidad y qué conclusión limitada apoya.]
-- **Imagen del alumnado:** <i<img width="1600" height="1200" alt="P03_ 01_preparación" src="https://github.com/user-attachments/assets/50a35ba3-d290-4764-966d-0e43fafeeb37" />>]
+- **Imagen del alumnado:** <i<img width<img width="1536" height="2040" alt="P03_02_identificación" src="https://github.com/user-attachments/assets/c97f8601-7bba-4ab2-a0b0-07370336c557" />>]
 
 *Figura 2. Comprueba que el portaobjetos incluye código de práctica, fecha y nombre o iniciales del alumno.*
 
