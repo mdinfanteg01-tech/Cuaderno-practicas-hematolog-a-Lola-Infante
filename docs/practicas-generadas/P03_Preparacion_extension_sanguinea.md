@@ -151,7 +151,7 @@ Añade entre **5 y 8 evidencias visuales** que cubran la preparación, las fases
 
 ### Imagen 1 — Materiales y preparación inicial
 
-- **Archivo previsto:** `../assets/P03<img width="1600" height="1200" alt="<img width="1600" height="1200" alt="<img width="1600" height="1200" alt="<img width="1600" height="1200" alt="P03_ 01_preparación" src="https://github.com/user-attachments/assets/5d3689d9-7d19-4390-9fc7-515c29150008" /> src="https://github.com/user-attachments/assets/739caffe-1ba0-4087-8742-557448cf0bd9" />" src="https://github.com/user-attachments/assets/1eb0556c-87f2-4a16-8979-8692bf33692b" /> src="https://github.com/user-attachments/assets/16ea2d52-6d4a-4573-8ec3-64a" />`
+- **Archivo previsto:** `../assets/P03_ 01_preparación" src="https://github.com/user-attachments/assets/5d3689d9-7d19-4390-9fc7-515c29150008" /> src="https://github.com/user-attachments/assets/739caffe-1ba0-4087-8742-557448cf0bd9" />" src="https://github.com/user-attachments/assets/1eb0556c-87f2-4a16-8979-8692bf33692b" /> src="https://github.com/user-attachments/assets/16ea2d52-6d4a-4573-8ec3-64a" />`
 - **Texto alternativ42e1cac7eo:** Papel vegetal  y la preparación inicial de la actividad asignada.
 - **Pie de foto:** [Describe lo que se observa en Preparación de extensión sanguínea, el momento, el origen/modalidad y qué conclusión limitada apoya.]
 - **Imagen del alumnado:** [Añade la imagen autorizada o escribe «No aplica» y explica.]
@@ -160,7 +160,7 @@ Añade entre **5 y 8 evidencias visuales** que cubran la preparación, las fases
 
 ### Imagen 2 — Portaobjetos correctamente rotulado
 
-- **Archivo previsto para el alumnado:** `../assets/<img width="1536" height="2040" alt="<img width="1536" height="2040" alt="<img width="1536" height="2040" alt=<img width="1536" height="2040" alt="P03_02_identificación" src="https://github.com/user-attachments/assets/ebce224a-e8cb-4244-8397-bd576f652e00" />" src="https://github.com/user-attachments/assets/0f10a1ba-e689-4853-914f-7ea3d7b2ae71" />" src="https://github.com/user-attachments/assets/bcd8522a-52ee-4732-b6fd-6a897df298e1" />" src="https://github.com/user-attachments/assets/35e4c932-8daa-4823-a253-e2d15263f60d" />`
+- **Archivo previsto para el alumnado:** `../assets/P03_02_identificación" src="https://github.com/user-attachments/assets/ebce224a-e8cb-4244-8397-bd576f652e00" />" src="https://github.com/user-attachments/assets/0f10a1ba-e689-4853-914f-7ea3d7b2ae71" />" src="https://github.com/user-attachments/assets/bcd8522a-52ee-4732-b6fd-6a897df298e1" />" src="https://github.com/user-attachments/assets/35e4c932-8daa-4823-a253-e2d15263f60d" />`
 - **Texto alternativo:** Portaobjetos del alumno rotulado con código de práctica, fecha y nombre o iniciales antes de añadir sangre.
 - **Pie de foto:** [Describe lo que se observa en Preparación de extensión sanguínea, el momento, el origen/modalidad y qué conclusión limitada apoya.]
 - **Imagen del alumnado:** [Añade la imagen autorizada o escribe «No aplica» y explica.]
@@ -169,7 +169,7 @@ Añade entre **5 y 8 evidencias visuales** que cubran la preparación, las fases
 
 ### Imagen 3 — Gota de sangre en el portaobjetos
 
-- **Archivo previsto para el alumnado:** `../assets/<img width="1200" height="1600" alt="<img width="1200" height="1600" alt="P03_ 0<img width="1200" height="1600" alt="<img width="1200" height="1600" alt="P03_ 03_gota_porta" src="https://github.com/user-attachments/assets/c94d9fb1-157a-42d1-854a-e7a02cef5e97" /> src="https://github.com/user-attachments/assets/878dd5a8-07c5-4849-a9a9-81e36150c600" />" src="https://github.com/user-attachments/assets/c289b7e8-0e1c-4ce8-9294-2a19030c7ae5" />" src="https://github.com/user-attachments/assets/4d317e33-ae73-47ac-bcaa-b99c0e67cb33" />`
+- **Archivo previsto para el alumnado:** `../assets/P03_ 03_gota_porta" src="https://github.com/user-attachments/assets/c94d9fb1-157a-42d1-854a-e7a02cef5e97" /> src="https://github.com/user-attachments/assets/878dd5a8-07c5-4849-a9a9-81e36150c600" />" src="https://github.com/user-attachments/assets/c289b7e8-0e1c-4ce8-9294-2a19030c7ae5" />" src="https://github.com/user-attachments/assets/4d317e33-ae73-47ac-bcaa-b99c0e67cb33" />`
 - **Texto alternativo:** Vista superior de una gota pequeña de sangre cerca de un extremo del portaobjetos, con espacio para colocar el extensor.
 - **Pie de foto:** [Describe lo que se observa en Preparación de extensión sanguínea, el momento, el origen/modalidad y qué conclusión limitada apoya.]
 - **Imagen del alumnado:** [Añade la imagen autorizada o escribe «No aplica» y explica.]
@@ -178,7 +178,7 @@ Añade entre **5 y 8 evidencias visuales** que cubran la preparación, las fases
 
 ### Imagen 4 — Colocación y angulación del extensor
 
-- **Archivo previsto para el alumnado:** `../assets/P03/<img width="1320" height="1038" alt="<img width="1320" height="1038" alt="<img width="1320" height="1038" alt="<img width="1320" height="1038" alt="P03_04_angulación_exterior" src="https://github.com/user-attachments/assets/02b3b3e4-5185-4a74-8a23-c3c4be810c57" />r" src="https://github.com/user-attachments/assets/a24e7dc8-cc62-445a-bbec-29dc476c422f" />" src="https://github.com/user-attachments/assets/7ceff6c8-a80a-4ad9-9c69-e2cbb025cd6f" />r" src="https://github.com/user-attachments/assets/e80563e6-84b6-4100-9109-3bd2e4832c65" />`
+- **Archivo previsto para el alumnado:** `../assets/P03_04_angulación_exterior" src="https://github.com/user-attachments/assets/02b3b3e4-5185-4a74-8a23-c3c4be810c57" />r" src="https://github.com/user-attachments/assets/a24e7dc8-cc62-445a-bbec-29dc476c422f" />" src="https://github.com/user-attachments/assets/7ceff6c8-a80a-4ad9-9c69-e2cbb025cd6f" />r" src="https://github.com/user-attachments/assets/e80563e6-84b6-4100-9109-3bd2e4832c65" />`
 - **Texto alternativo:** Vista lateral del portaobjetos extensor inclinado entre 30 y 45 grados, con su borde en contacto con la gota del porta base.
 - **Pie de foto:** [Describe lo que se observa en Preparación de extensión sanguínea, el momento, el origen/modalidad y qué conclusión limitada apoya.]
 - **Imagen del alumnado:** [Añade la imagen autorizada o escribe «No aplica» y explica.]
@@ -187,7 +187,7 @@ Añade entre **5 y 8 evidencias visuales** que cubran la preparación, las fases
 
 ### Imagen 5 — Extensión final obtenida
 
-- **Archivo previsto para el alumnado:** `../assets/P03/<img width="1536" height="2040" alt=<img width="1536" height="2040" alt="P03_05_ <img width="1536" height="2040" alt="<img width="1536" height="2040" alt="P03_05_ extensión final" src="https://github.com/user-attachments/assets/5375d300-005d-488f-b9f1-3a63d559e288" />" src="https://github.com/user-attachments/assets/abd6c61d-d5c0-46a6-92cd-2f3dc0699ce8" />" src="https://github.com/user-attachments/assets/6db70ba7-4ff6-4538-bedb-0ecbd525cabd" />" src="https://github.com/user-attachments/assets/9022eed2-9f0b-44b3-8a28-345bd62b789b" />`
+- **Archivo previsto para el alumnado:** `../assets/P03_05_ extensión final" src="https://github.com/user-attachments/assets/5375d300-005d-488f-b9f1-3a63d559e288" />" src="https://github.com/user-attachments/assets/abd6c61d-d5c0-46a6-92cd-2f3dc0699ce8" />" src="https://github.com/user-attachments/assets/6db70ba7-4ff6-4538-bedb-0ecbd525cabd" />" src="https://github.com/user-attachments/assets/9022eed2-9f0b-44b3-8a28-345bd62b789b" />`
 - **Texto alternativo:** Extensión sanguínea seca en cuña obtenida por el alumno, fotografiada completa para mostrar su cuerpo y borde de pluma.
 - **Pie de foto:** [Describe lo que se observa en Preparación de extensión sanguínea, el momento, el origen/modalidad y qué conclusión limitada apoya.]
 - **Imagen del alumnado:** [Añade la imagen autorizada o escribe «No aplica» y explica.]
