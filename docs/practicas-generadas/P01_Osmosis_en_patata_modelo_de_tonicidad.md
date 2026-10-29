@@ -262,14 +262,14 @@ La Prueba de Fragilidad Osmótica de los Eritrocitos PFO, hace el mismo procedim
 | Campo | Registro del alumnado |
 |---|---|
 | Identificador de práctica | `P01` |
-| Fecha | [dd/mm/aaaa] |
+| Fecha 29/09/2026
 | UD / RA / CE | `UD3 / RA03 / CE03.c` |
-| Agrupamiento | [Individual / pareja; especifica] |
+| Agrupamiento |  pareja/ Ambra |
 | Modalidad y origen de evidencia | [Completa] |
 | Materiales, equipo o fuente usados | [Completa o «No aplica»] |
-| Controles | [Resume o enlaza al apartado 9.1] |
-| Resultado | [Resume o enlaza al apartado 9.3] |
-| Interpretación | [Resume o enlaza al apartado 12] |
-| Incidencias y acciones | [Resume o enlaza al apartado 11] |
-| Ruta de residuos | [Completa o «No aplica»] |
-| Estado de entrega | [Borrador / pendiente de revisión / entregado / corregido] |
+| Controles | apartado 9.1 |
+| Resultado |  apartado 9.3 |
+| Interpretación |  apartado 12 |
+| Incidencias y acciones |  apartado 11 |
+| Ruta de residuos | No aplica |
+| Estado de entrega |  / pendiente de revisión / entregado / corregido] |
