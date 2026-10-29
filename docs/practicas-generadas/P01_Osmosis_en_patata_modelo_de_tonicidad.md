@@ -223,19 +223,19 @@ Puedes añadir hasta tres evidencias más si documentan otros pasos relevantes; 
 
 | Incidencia, error o duda | Posible causa | Medida aplicada o propuesta | ¿Afectó al resultado? |
 |---|---|---|---|
-| [Completa o escribe «No se detectaron incidencias»] | [Completa] | [Completa] | [Sí / No; explica] |
+| No se detectaron incidencias| |
 
 ## 12. Interpretación técnica [ALUMNADO · RELLENABLE · DESPUÉS]
 
 Interpreta el cambio de masa observado en patata mediante la ósmosis y la tonicidad de los medios hipotónico e hipertónico. Explica qué patrón respaldan los datos, usa los controles y evidencias, y reconoce que el tejido vegetal es solo un modelo conceptual. Separa observación, cálculo, hipótesis e información no disponible; no excedas el alcance didáctico ni formules un diagnóstico individual.
 
-[Escribe aquí tu interpretación técnica.]
+La base que explica los resultados observados es la ley de la osmosis y el principio de la tonicidad diferencial. A nivel celular, el tejido parenquimático de la patata esta compuesto por células vegetales  delimitadas por una membrana plasmática semipermeable. Al someter este tejido a gradiente de concentración se desencadenaron dos respuestas termodinámicas distintas: Endósmosis, lo que impulso un flujo neto de agua hacia el interior de la célula, alcanzando estado de turgencia máxima. Exósmosis, forzando un flujo de agua hacia el exterior del tejido para equilibrar las concentraciones del soluto provocando una perdida de turgencia. 
 
 ## 13. Conclusión [ALUMNADO · RELLENABLE · DESPUÉS]
 
 Indica si alcanzaste el objetivo, qué evidencia sostiene la conclusión y qué limitaciones tuvo la modalidad realmente realizada.
 
-[Escribe aquí tu conclusión.]
+Si se alcanzaron los objetivos pero levemente.
 
 ## 14. Reflexión profesional [ALUMNADO · RELLENABLE · DESPUÉS]
 
@@ -251,11 +251,11 @@ Responde individualmente y relaciona cada respuesta con datos, observaciones o i
 
 **3. Conclusiones:** Relaciona los fenómenos osmóticos con el resultado de tu práctica.
 
-   [Respuesta del alumnado]
+   Esta practica demuestra el principio de ósmosis y la dinámica del flujo de agua a través de membranas semipermeables en respuesta a gradientes de concentración. Los estados de turgencia y plasmólisis observados en el tejido vegetal sirven como modelo análogo para comprender los fenómenos de hemolisis y crenación de los eritrocitos humanos. El experimento fundamenta técnicamente el uso obligatorio de soluciones isotónicas en la practica médica y valida el principio fisicoquímico de la Prueba de fragilidad Osmótico en el laboratorio hemológico.
 
 **4. Aprendizaje y transferencia:** ¿Qué técnica hematológica se basa en el mismo principio? Justifica o explica tu respuesta.
 
-   [Respuesta del alumnado]
+La Prueba de Fragilidad Osmótica de los Eritrocitos PFO, hace el mismo procedimiento, en lugar de usar rodajas de patata, se toma una muestra de sangre y se distribuye en una serie de tubos que contienen soluciones de cloruro de sodio NaCL en concentraciones decrecientes, en los tubos de alta concentración el medio es isotónico. Los glóbulos. rojos conservan su agua interna y mantienen su forma normal de romperse. En los tubos de baja concentración, el medio es hipotónico (equivale a l agua sola de nuestra practica). El agua entra en los eritrocitos por osmosis lo que hace que se hinchen, llegando a estallar la membrana y liberando la hemoglobina. A partir de esto, se mide cuanta hemoglobina se líbero en cada tubo para construir una curva de fragilidad osmotica.
 
 ## 15. Trazabilidad y entrega [ALUMNADO · RELLENABLE · DESPUÉS]
 
