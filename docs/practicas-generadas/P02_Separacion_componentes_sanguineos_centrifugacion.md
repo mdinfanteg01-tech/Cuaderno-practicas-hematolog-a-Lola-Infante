@@ -1,8 +1,4 @@
-<img width="1536" height="2040" alt="P02 03 carga centrifuga" src="https://github.com/user-attachments/assets/6c9046d6-4971-40d6-8a1b-04d0dc3137e4" />
-<img width="1536" height="2040" alt="P02 03 carga centrifuga" src="https://github.com/user-attachments/assets/d42ad7d3-89b5-479b-9dcc-7f9067443016" />
-<img width="1536" height="2040" alt="P02 02comprobaciónequipos" src="https://github.com/user-attachments/assets/5fc5df24-f64f-467b-be6c-ce258ee860de" />
-<img width="1536" height="2040" alt="P02 02comprobaciónequipos" src="https://github.com/user-attachments/assets/37fc0c6d-dab7-4acb-9fff-eab7aba5dd7c" />
-title: "P02 — Separación de componentes sanguíneos por centrifugación"
+
 practice_id: "P02"
 unit: "UD7"
 learning_outcomes: "RA07"
@@ -238,7 +234,7 @@ Puedes añadir hasta tres evidencias más si documentan otros pasos relevantes; 
 
 | Incidencia, error o duda | Posible causa | Medida aplicada o propuesta | ¿Afectó al resultado? |
 |---|---|---|---|
-| «No se detectaron incidencias»|  | [Completa] |  No |
+No se detectaron incidencias
 
 ## 12. Interpretación técnica [ALUMNADO · RELLENABLE · DESPUÉS]
 
@@ -246,7 +242,7 @@ Explica qué capas observaste en la muestra real con EDTA y cómo la centrifugac
 
 Se observan tres capas, plasma, capa leucocitaria y capa de eritrocitos, aunque el plasma tiene un color rojizo debido a la lisis de eritrocitos.
 <img width="1536" height="2040" alt="P02 01 muestra puesto" src="https://github.com/user-attachments/assets/02afaaf1-27f3-4572-858b-39a03c587bef" />
-<img width="1536" height="2040" alt="P02 01 muestra puesto" src="https://github.com/user-attachments/assets/3d5a701d-c561-4009-abcd-131524e654f2" />
+
 
 ## 13. Conclusión [ALUMNADO · RELLENABLE · DESPUÉS]
 
@@ -291,7 +287,7 @@ Responde individualmente y relaciona cada respuesta con datos, observaciones o i
 | Interpretación |  apartado 12 |
 | Incidencias y acciones |  apartado 11 |
 | Ruta de residuos |  «No aplica» |
-| Estado de entrega | [Borrador / pendiente de revisión / entregado / corregido] |
+| Estado de entrega |  pendiente de revisión / entregado / corregido] |
 
 
 
