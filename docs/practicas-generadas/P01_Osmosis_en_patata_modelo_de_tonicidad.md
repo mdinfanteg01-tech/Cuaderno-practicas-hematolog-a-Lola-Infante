@@ -151,7 +151,7 @@ Analizamos como se desplaza el agua a través de las membranas celulares según 
 
 Resume el resultado y especifica qué procede de observación real, demostración, imagen, dato simulado o análisis documental.
 
-[Escribe aquí el resultado principal.]
+Los cortes de patata sumergida en agua solamente, están mas duros al tacto, mas rígidos, incluso parece haber aumentado de tamaño. Los cortes de patata sumergidas en agua con sal, están mas blandos, flexibles y parecen haber perdido volumen. Debe de ser porque el agua siempre viaja hacia donde hay mas concentración de sal. Así el agua con sal tiene una concentración de solutos mucho mayor que el interior de las células de la patata. El agua de las células salió hacia el vaso para intentar diluir la sal del exterior. Al vaciarse, las células se desinflaron (Plasmosis). El agua pura tiene menos concentración de solutos que el interior de las células de la patata, por osmosis, el agua entró a las células para intentar igualar las concentraciones, inflándolas (turgencias).
 
 ## 10. Evidencias visuales [ALUMNADO · RELLENABLE · DURANTE Y DESPUÉS]
 
