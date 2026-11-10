@@ -117,7 +117,7 @@ La práctica se realiza bajo supervisión docente, siguiendo el protocolo aproba
 - **Nombre y apellidos:** Lola Infante Garcia
 - **Fecha real de realización:** 10/11/2026
 - **Grupo:** 2º LCB
-- **Pareja de trabajo, si procede:** [Indica el nombre o «Trabajo individual»]
+- **Pareja de trabajo, si procede:**  Trabajo individual
 - **Rol o tarea principal:** Técnico
 - **Modalidad realmente realizada:** Real autorizada 
 - **Código o descripción del material/dataset:** [Completa sin incluir datos personales o clínicos]
@@ -130,9 +130,9 @@ Enumera los recursos que vas a utilizar y los residuos previstos. Escribe «No a
 
 | Elemento | Listado del alumnado |
 |---|---|
-| Instrumental | [Enumera el instrumental que vas a utilizar] |
-| Equipos | [Enumera los equipos que vas a utilizar] |
-| Reactivos/materiales | [Enumera los reactivos y materiales que vas a utilizar] |
+| Instrumental | Papel vegetal, cristalizador y puente de tincion, micropipeta |
+| Equipos | Microscopio |
+| Reactivos/materiales | May Gruwe     Giemsa |
 
 | Residuo previsto | Tipo |
 |---|---|
