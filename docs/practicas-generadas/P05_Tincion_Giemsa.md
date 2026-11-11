@@ -52,7 +52,6 @@ Al finalizar deberás poder:
 - **Protección y recogida previa:** EPI indicado por las FDS y el docente. Para obtener sangre capilar en P03, únicamente si esa ruta está autorizada, se necesitan lanceta y capilar de microhematocrito heparinizado; no se utilizan para teñir un frotis ya preparado.
 
 La obtención de sangre y la preparación de la extensión corresponden a P03. La concentración, el pH y el uso de cada reactivo dependen del inserto vigente y de la validación del centro.
-
 **Riesgos y límites:** Toda sangre se considera potencialmente infecciosa. Solo se usará sangre EDTA residual cedida expresamente para docencia por el Banco de Sangre de Extremadura/SES, nunca una unidad destinada a transfusión; se mantendrá codificada, sin identificadores personales o clínicos. La ruta capilar será exclusivamente sangre propia, voluntaria, autorizada y supervisada según P03; nunca se punciona a otra persona y debe existir una alternativa equivalente. Revisar FDS de Giemsa y metanol, medidas de exposición, EPI y rutas separadas de residuos biológicos y químicos. Concentración, pH, tiempos y eliminación dependen del inserto vigente y de la validación del centro.
 
 > **Aviso de seguridad.** La ficha conserva el estado **CONDITIONAL** del programa. La aprobación de diseño no autoriza por sí misma la ejecución. Si faltan evaluación de riesgos, recursos, supervisión o autorización del centro, utiliza exclusivamente la modalidad alternativa indicada por el profesorado.
@@ -127,9 +126,9 @@ La obtención de sangre y la preparación de la extensión se documentan en [P03
 - **Grupo:** 2º LCB
 - **Pareja de trabajo, si procede:** Trabajo individual
 - **Rol o tarea principal:** Técnico
-- **Modalidad realmente realizada:** [Real autorizada sobre el frotis de P03 / demostración / simulada / documental; describe]
-- **Origen de la sangre:** [Muestra EDTA residual cedida para docencia por el Banco de Sangre de Extremadura/SES / sangre capilar propia recogida en P03]
-- **Anticoagulante:** [EDTA / heparina / No consta]
+- **Modalidad realmente realizada:** Real autorizada sobre el frotis de P03 
+- **Origen de la sangre:** Muestra EDTA residual cedida para docencia por el Banco de Sangre de Extremadura/SES / sangre capilar propia recogida en P03
+- **Anticoagulante:** EDTA
 - **Código no identificativo del frotis P03:** [Completa]
 
 ## 8. Preparación y análisis inicial [ALUMNADO · RELLENABLE · DURANTE]
@@ -140,15 +139,15 @@ Enumera los recursos que vas a utilizar y los residuos previstos. Escribe «No a
 
 | Elemento | Listado del alumnado |
 |---|---|
-| Instrumental | [Anota el instrumental previsto en el apartado 4 que utilizaste realmente] |
-| Equipos | [Anota los equipos previstos en el apartado 4 que utilizaste realmente] |
-| Reactivos/materiales | [Anota los reactivos y materiales previstos en el apartado 4 que utilizaste realmente] |
+| Instrumental | Portaobjetos, cristalizador y puente de tinción, pipeta Pasteur, frasco lavador y tubo de ensayo |
+| Equipos | Microscopio|
+| Reactivos/materiales | Metanol, colorante Giemsa y agua destilada|
 
 | Residuo previsto | Tipo |
 |---|---|
-| [Material desechable contaminado con sangre] | [Biológicos o infecciosos] |
-| [Portaobjetos roto contaminado, si lo hubiera] | [Punzocortantes] |
-| [Envase no contaminado que el centro permita] | [Urbanos o asimilables a los urbanos] |
+|Material desechable contaminado con sangre | Biológicos o infecciosos |
+|Portaobjetos roto contaminado, si lo hubiera | Punzocortantes |
+|Envase no contaminado que el centro permita | Urbanos o asimilables a los urbanos |
 
 Los restos de Giemsa, metanol y material con reactivo pueden requerir una ruta de residuo químico separada de las tres categorías de la tabla. Comprueba las FDS y las instrucciones del centro; no viertas reactivos al desagüe. Escribe «No aplica» en las filas que no correspondan.
 
@@ -160,10 +159,9 @@ Registra los datos de tu actividad e indica si proceden de ejecución propia, de
 
 | Aspecto | Registro del alumnado |
 |---|---|
-| Cálculos (si procede) | [Indica qué calculas, los datos de partida con unidades, la fórmula u operación y el resultado con unidades] |
-| Configuración de equipos (si procede) | [Indica el equipo, los parámetros utilizados y sus valores con unidades cuando corresponda] |
-| Características del producto o resultado final | [Describe coloración, contraste, fondo, precipitados, artefactos y conservación celular. Remite al origen, anticoagulante y código no identificativo registrados en el apartado 7; anota control e incidencias. No formules diagnósticos.] |
-
+| Cálculos (si procede) | El colorante Giemsa debe ser diluido, su dilución es 1/10, así calculamos la cantidad que necesitamos |
+| Configuración de equipos (si procede) | Microscopio, lo conectamos, encendemos la luz, comenzamos con el objetivo de menor aumento 4x, subimos la platina usando el tornillo macrométrico antes de afinar la imagen  hasta su tope superior. Giramos lentamente el tornillo macrométrico para ir bajando la platina, nos detenemos en cuanto aparezca la imagen, usamos el tornillo micrómetro para dar nitidez exacta a la imagen, si necesitamos mas nitidez ajustamos el diafragma del condensador. Después cambiamos a mayores aumentos 10x y 40x. Antes de cambiar la lente ces mejor mover la estructura que nos interesa al centro del campo visual. Al terminar, retiramos la muestra bajamos al mínimo la intensidad de la luz y desconectamos el equipo. Lo cubrimos con su funda protector y lo guardamos.
+| Características del producto o resultado final | La extensión ha salido regular, a veces manchas, artefactos, morfología anormal de los eritrocitos quizás por no visualizarlos en la zona optima, exseso de colorante o lavado insuficiente, tambien se ven aglomeraciones y espiculados y crenocitos quizás por secado muy lento.
 ## 10. Evidencias visuales [ALUMNADO · RELLENABLE · DURANTE Y DESPUÉS]
 
 Incluye entre **5 y 8 evidencias visuales** según la modalidad autorizada. Indica para cada una si es propia, de demostración, simulada o documental. Las microfotografías deben proceder de la extensión observada o de material docente autorizado; escribe «No aplica» si no se dispone de esa evidencia. No fotografíes etiquetas ni datos personales/clínicos. No atribuyas imágenes ajenas al alumnado ni formules diagnósticos. Añade aumento o escala solo si se conocen.
