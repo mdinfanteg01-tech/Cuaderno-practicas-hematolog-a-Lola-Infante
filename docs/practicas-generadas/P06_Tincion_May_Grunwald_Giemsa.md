@@ -132,11 +132,11 @@ Enumera los recursos que vas a utilizar y los residuos previstos. Escribe «No a
 |---|---|
 | Instrumental | Papel vegetal, cristalizador y puente de tincion, micropipeta |
 | Equipos | Microscopio |
-| Reactivos/materiales | May Gruwe     Giemsa |
+| Reactivos/materiales | May Grunwald - Giemsa |
 
 | Residuo previsto | Tipo |
 |---|---|
-| [Enumera un residuo por fila; añade las filas necesarias o escribe «No aplica»] | [Urbanos o asimilables a los urbanos / Punzocortantes / Biológicos o infecciosos] |
+| Los colorantes, como la Giemsa o el colorante May Grunwald son residuos químicos que requieren un manejo especial, así que se depositan en el bidón de los residuos químicos | Las puntas de micropipetas y el papel vegetalUrbanos son asimilables a los urbanos / Punzocortantes como los portaobjetos al contenedor amarillo de objetos corto-punzantes / Biológicos o infecciosos, no aplica. |
 
 ## 9. Observaciones y resultados [ALUMNADO · RELLENABLE · DURANTE]
 
@@ -161,7 +161,7 @@ Añade entre **5 y 8 evidencias visuales** que cubran la preparación, las fases
 - **Pie de foto:** [Describe lo que se observa en Tinción de May-Grünwald-Giemsa, el momento, el origen/modalidad y qué conclusión limitada apoya.]
 - **Imagen del alumnado:** [Añade la imagen autorizada o escribe «No aplica» y explica.]
 
-![Documenta los materiales y la preparación inicial de la actividad asignada.](../assets/P06/P06_01_preparacion.jpg)
+![Documenta los materiales y la preparación inicial de la actividad asignada.](../assets/<img width="1600" height="1200" alt="P06 01 preparación" src="https://github.com/user-attachments/assets/15b51c79-fedb-4e06-ac57-bf65d3900143" />)
 
 *Figura 1. ¿Qué materiales, fuente o condición se prepararon? Indica su procedencia y modalidad.*
 
@@ -172,7 +172,8 @@ Añade entre **5 y 8 evidencias visuales** que cubran la preparación, las fases
 - **Pie de foto:** [Describe la preparación de la extensión y señala si se distinguen cabeza, cuerpo y cola. Indica procedencia/modalidad y la conclusión limitada que apoya.]
 - **Imagen del alumnado:** [Añade la imagen autorizada o escribe «No aplica» y explica.]
 
-![Extensión sanguínea extendida sobre un portaobjetos antes de la tinción.](../assets/P06/P06_02_extension_sanguinea.jpg)
+![Extensión sanguínea extendida sobre un portaobjetos antes de la tinción.](../assets/P06/<img width="1600" height="1200" alt="P06 02extension sanguinea" src="https://github.com/user-attachments/assets/16e4f714-b108-415b-96d0-1e067b17c56d" />
+P06_02_extension_sanguinea.jpg)
 
 *Figura 2. Describe la preparación de la extensión y señala si se distinguen cabeza, cuerpo y cola. Indica procedencia/modalidad; evita inferencias diagnósticas.*
 
@@ -183,8 +184,8 @@ Añade entre **5 y 8 evidencias visuales** que cubran la preparación, las fases
 - **Pie de foto:** [Documenta la adición del colorante May-Grünwald y el momento de la secuencia. Indica procedencia/modalidad y la conclusión limitada que apoya.]
 - **Imagen del alumnado:** [Añade la imagen autorizada o escribe «No aplica» y explica.]
 
-![Adición del colorante May-Grünwald sobre la extensión sanguínea durante el procedimiento de tinción.](../assets/P06/P06_03_adicion_may_grunwald.jpg)
-
+![Adición del colorante May-Grünwald sobre la extensión sanguínea durante el procedimiento de tinción.](../assets/P06/<img width="1536" height="2040" alt="P06 03 adición May Grunwald" src="https://github.com/user-attachments/assets/a920f9b1-2273-4a70-8c95-e80756b85c3b" />g)
+runwald.jpg
 *Figura 3. Documenta la adición del colorante May-Grünwald y el momento de la secuencia. Indica procedencia/modalidad; evita inferencias diagnósticas.*
 
 ### Imagen 4 — Extensión teñida lista para observación
@@ -194,7 +195,7 @@ Añade entre **5 y 8 evidencias visuales** que cubran la preparación, las fases
 - **Pie de foto:** [Describe el aspecto general de la preparación teñida y si presenta contraste adecuado. Indica procedencia/modalidad y la conclusión limitada que apoya.]
 - **Imagen del alumnado:** [Añade la imagen autorizada o escribe «No aplica» y explica.]
 
-![Extensión sanguínea teñida y seca, preparada para su observación microscópica.](../assets/P06/P06_04_extension_tenida.jpg)
+![Extensión sanguínea teñida y seca, preparada para su observación microscópica.](../assets/P06/<img width="1536" height="2040" alt="P06 04 extensiones teñidas" src="https://github.com/user-attachments/assets/8f707aec-30aa-4035-a9e5-457db35c5807" />g)
 
 *Figura 4. Describe el aspecto general de la preparación teñida y si presenta contraste adecuado. Indica procedencia/modalidad; evita inferencias diagnósticas.*
 
@@ -282,7 +283,7 @@ Añade entre **5 y 8 evidencias visuales** que cubran la preparación, las fases
 - **Pie de foto:** [Documenta la gestión de los residuos de colorantes sin mostrar datos personales ni prácticas inseguras. Indica procedencia/modalidad y la conclusión limitada que apoya.]
 - **Imagen del alumnado:** [Añade la imagen autorizada o escribe «No aplica» y explica.]
 
-![Recipiente etiquetado para la segregación de residuos de colorantes conforme a las normas del centro.](../assets/P06/P06_12_gestion_residuos_colorantes.jpg)
+![Recipiente etiquetado para la segregación de residuos de colorantes conforme a las normas del centro.](../assets/P06/<img width="1200" height="1600" alt="P06 12 gestion de residuos y colorantes" src="https://github.com/user-attachments/assets/610017cc-ac1c-4259-bc62-bb251e74b1ea" />)
 
 *Figura 12. Documenta la gestión de los residuos de colorantes sin mostrar datos personales ni prácticas inseguras. Indica procedencia/modalidad; evita inferencias diagnósticas.*
 
