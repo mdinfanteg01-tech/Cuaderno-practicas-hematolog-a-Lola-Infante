@@ -239,7 +239,7 @@ P05_02_extension_previa
 - **Pie de foto:** [Identifica eritrocitos y plaquetas si son visibles; indica origen/modalidad y aumento o escala solo si se conocen.]
 - **Imagen del alumnado:** [Añade la imagen autorizada o escribe «No aplica» si no está disponible.]
 
-![Eritrocitos y plaquetas observados en una extensión teñida con Giemsa.](../assets/P05/P05_07_eritrocito_plaquetas.jpg)
+![Eritrocitos y plaquetas observados en una extensión teñida con Giemsa.](../assets/P05/<img width="1200" height="1600" alt="P05 07 eritrocitos - plaquetas" src="https://github.com/user-attachments/assets/caec6fac-d3b3-4d9a-bd80-a1e881cdb34b" />)
 
 *Figura 7. Eritrocitos y plaquetas; identifica el origen de la microfotografía.*
 
@@ -250,7 +250,7 @@ P05_02_extension_previa
 - **Pie de foto:** [Incluye los tipos leucocitarios que puedan identificarse con seguridad; indica la procedencia de cada campo e incluye aumento/escala solo si se conocen. Escribe «No aplica» para los no disponibles.]
 - **Imagen del alumnado:** [Añade la imagen autorizada o escribe «No aplica» si no está disponible.]
 
-![Panel de neutrófilos, eosinófilos, basófilos, monocitos y linfocitos observados en extensiones teñidas con Giemsa.](../assets/P05/P05_08_leucocitos.jpg)
+![Panel de neutrófilos, eosinófilos, basófilos, monocitos y linfocitos observados en extensiones teñidas con Giemsa.](../assets/<img width="1200" height="1600" alt="P05 08 neutrolfilo, monocitos" src="https://github.com/user-attachments/assets/2044feec-ace8-4c20-9be8-fe8c6c0ce8e3" />)
 
 *Figura 8. Leucocitos observados; registra los tipos identificables y el origen de cada imagen.*
 
