@@ -240,7 +240,7 @@ Incorpora las evidencias visuales indicadas a continuación, siempre que su capt
 - **Pie de foto:** [Identifica el origen/modalidad; añade aumento o escala solo si se conocen.]
 - **Imagen del alumnado:** [Añade la imagen autorizada o escribe «No aplica» y explica.]
 
-![Monocito observado en una extensión sanguínea teñida con panóptico rápido.](../assets/P04/P04_09_monocito.jpg)
+![Monocito observado en una extensión sanguínea teñida con panóptico rápido.](../assets/P<img width="1200" height="1600" alt="monocito" src="https://github.com/user-attachments/assets/8a15e091-8be2-4eeb-b979-dddcb03af5f2" />)
 
 *Figura 9. Monocito en la extensión observada; identifica el origen de la microfotografía.*
 
@@ -251,7 +251,7 @@ Incorpora las evidencias visuales indicadas a continuación, siempre que su capt
 - **Pie de foto:** [Identifica el origen/modalidad; añade aumento o escala solo si se conocen.]
 - **Imagen del alumnado:** [Añade la imagen autorizada o escribe «No aplica» y explica.]
 
-![Linfocito observado en una extensión sanguínea teñida con panóptico rápido.](../assets/P04/P04_10_linfocito.jpg)
+![Linfocito observado en una extensión sanguínea teñida con panóptico rápido.](../assets/P04<img width="1600" height="1200" alt="linfocito" src="https://github.com/user-attachments/assets/17695cfc-76db-481d-ac04-da8607af7544" />)
 
 *Figura 10. Linfocito en la extensión observada; identifica el origen de la microfotografía.*
 
