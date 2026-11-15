@@ -144,7 +144,7 @@ Analizamos como se desplaza el agua a través de las membranas celulares según 
 | Observación, variable o cálculo | Dato/evidencia | Comentario |
 |---|---|---|
 | [Registro 1] | Variable, tiempo de inmersión, temperatura, volumen del liquido y tamaño de las muestras de patatas |  |
-| [Registro 2] | [Completa] | [Completa] |
+| [Registro 2] | Calculo peso de los trozos de patata en agua con sal, 23,25gr se redujo a 16,27gr, peso de los trozos de patata en agua 25,83gr se redujo a 20,68gr |
 | [Registro 3] | [Completa] | Dato/evidencia Variación en el peso de la masa. |
 
 ### 9.3 Resultado principal
