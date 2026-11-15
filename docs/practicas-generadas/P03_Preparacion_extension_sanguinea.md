@@ -200,13 +200,14 @@ Puedes añadir hasta tres evidencias más si documentan otros pasos relevantes; 
 
 | Incidencia, error o duda | Posible causa | Medida aplicada o propuesta | ¿Afectó al resultado? |
 |---|---|---|---|
-| [Completa o escribe «No se detectaron incidencias»] | [Completa] | [Completa] | [Sí / No; explica] |
-
+En las extensiones se pueden observar varios errores|, no son homogéneas, presentan varias estrías, no consigo borde en pluma.         Puede ser por una mala posición o deslizar el portaobjetos demasiado despacio. |
+Como mediada aplicada, intente acelerar la extensión y colocar mas ajustado (30º a 45º) el portaobjetos con el que deslizamos.
 ## 12. Interpretación técnica [ALUMNADO · RELLENABLE · DESPUÉS]
 
 Compara tus extensiones y justifica cuál presenta mejor calidad técnica y qué defectos observas. Relaciona la valoración con el origen de la sangre, la técnica y las evidencias. No formules diagnóstico ni afirmes validez clínica.
 
-[Escribe aquí tu interpretación técnica.]
+La segunda extensión presenta mejor calidad técnica que la primera porque se ve la capa mas fina y un poco mas homogénea pero no llega a estar bien del todo.
+Una extensión bien realizada debe ocupar entre dos tercios y tres cuartos de longitud del portaobjetos y mostrar una transición gradual. Al observar al microscopio óptico, se divide en tres zonas Cabeza, zona inicial, mas gruesa. Cuerpo, zona intermedia, los hematies estan dispuestos en monocapa (apenas se 
 
 ## 13. Conclusión [ALUMNADO · RELLENABLE · DESPUÉS]
 
