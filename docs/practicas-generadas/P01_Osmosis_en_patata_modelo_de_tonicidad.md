@@ -117,7 +117,7 @@ Cuando no se enlaza un PNT operativo local, estos documentos públicos aportan c
 
 | Comprobación | Registro |
 |---|---|
-| Autorización o modalidad asignada | [Completa] |
+| Autorización o modalidad asignada | Autorizada. |
 | PNT, fuente o material docente consultado | [Completa; indica versión si consta] |
 | Equipo/material realmente utilizado | Papel vegetal, vasos de precipitado, probeta, vidrio de reloj, balanza, espátula, cuchillo, NaCl, H2O, patata. |
 | Medidas de seguridad aplicadas |IPE Bata y guantes. |
@@ -143,9 +143,9 @@ Analizamos como se desplaza el agua a través de las membranas celulares según 
 
 | Observación, variable o cálculo | Dato/evidencia | Comentario |
 |---|---|---|
-| [Registro 1] | [Completa] | [Completa] |
+| [Registro 1] | Variable, tiempo de inmersión, temperatura, volumen del liquido y tamaño de las muestras de patatas |  |
 | [Registro 2] | [Completa] | [Completa] |
-| [Registro 3] | [Completa] | [Completa] |
+| [Registro 3] | [Completa] | Dato/evidencia Variación en el peso de la masa. |
 
 ### 9.3 Resultado principal
 
