@@ -207,13 +207,13 @@ Como mediada aplicada, intente acelerar la extensión y colocar mas ajustado (30
 Compara tus extensiones y justifica cuál presenta mejor calidad técnica y qué defectos observas. Relaciona la valoración con el origen de la sangre, la técnica y las evidencias. No formules diagnóstico ni afirmes validez clínica.
 
 La segunda extensión presenta mejor calidad técnica que la primera porque se ve la capa mas fina y un poco mas homogénea pero no llega a estar bien del todo.
-Una extensión bien realizada debe ocupar entre dos tercios y tres cuartos de longitud del portaobjetos y mostrar una transición gradual. Al observar al microscopio óptico, se divide en tres zonas Cabeza, zona inicial, mas gruesa. Cuerpo, zona intermedia, los hematies estan dispuestos en monocapa (apenas se 
-
+Una extensión bien realizada debe ocupar entre dos tercios y tres cuartos de longitud del portaobjetos y mostrar una transición gradual. Al observar al microscopio óptico, se divide en tres zonas Cabeza, zona inicial, mas gruesa. Cuerpo, zona intermedia, los hematíes están dispuestos en monocapa (apenas se tocan entre ellos) y cola, zona final, mas fina, aquí los hematíes suelen estar deformados o destruidos.
+Se evidencia un frotis con espacios vacios y estrias tranversales, la tecnica no ha salido bien.
 ## 13. Conclusión [ALUMNADO · RELLENABLE · DESPUÉS]
 
 Valora razonadamente si alcanzaste el objetivo, conectando la calidad observada con el procedimiento y la evidencia registrada. Explica las limitaciones de la fuente y de la modalidad realmente realizada.
 
-[Escribe aquí tu conclusión.]
+Se ha conseguido el objetivo pero falta practica para que la extensión quede bien realmente bien.
 
 ## 14. Reflexión profesional [ALUMNADO · RELLENABLE · DESPUÉS]
 
@@ -221,19 +221,22 @@ Responde individualmente y relaciona tus respuestas con las observaciones e imá
 
 **1. Procedimiento:** ¿Qué decisiones sobre la técnica realizada (localización de la gota, volumen de la gota, inclinación del portaobjetos extensor, apoyo y fuerza del portaobjetos extensor, velocidad del movimiento extensor) influyeron más en la calidad del trabajo y cómo lo comprobaste?
 
-   [Respuesta del alumnado]
+La inclinación del portaobjetos no era la correcta y lo deslice demasiado lento esto hizo y con poca fuerza, todo esto influyo en que la extensión saliera con estrias y no fuera gradual.
 
 **2. Interpretación:** ¿Por qué es importante realizar una extensión correcta?
 
-   [Respuesta del alumnado]
+Es importante para la posterior observación en el microscopio, si la extensión esta bien hecha se podrá observar mejor todas las celulas.
+Si esta mal hecha las células pueden haber sufrido daños físicos, crenación o equinecitos artificiales. Puede haber mala distribución leucocitaria porque el desplazamiento no ha sido uniforme o perdida de palidez central en hematíes. Por todo ello es importante una buena extensión.
 
 **3. Conclusiones:** ¿Qué zona es la más importante de toda la extensión y por qué?
 
-   [Respuesta del alumnado]
+La zona media o cuerpo, especialmente la transición hasta la cola, ya que es el único lugar donde las células forman una monocapa uniforme ideal para el diagnostico. 
+En el frotis sanguíneo solo la lectura en la zona media tiene validez diagnostica real para identificar patologías hematológicas sin falsos artefactos.
 
 **4. Aprendizaje y transferencia:** ¿Qué mejorarías?
 
-   [Respuesta del alumnado]
+He adquirido destreza psicomotriz y precisión de la técnica, tambien he aprendido a evaluar macroscopicamente el pòrtaobjetos antes de teñirlo, identificar defectos (estrias, huecos o grosor excesivo).
+Los conocimientos de esta practica los transferiré a la rutina diaria del laboratorio. Mejoraría la ejecución de la técnica, controlaría mejor el ángulo y el apoyo de la muñeca sobre la mesa, mejoraría la presión y le daría mas velocidad.
 
 ## 15. Trazabilidad y entrega [ALUMNADO · RELLENABLE · DESPUÉS]
 
@@ -244,10 +247,10 @@ Responde individualmente y relaciona tus respuestas con las observaciones e imá
 | UD / RA / CE | `UD1 / RA01 / CE01.b, CE01.f` |
 | Agrupamiento | Individual|
 | Modalidad y origen de evidencia | [Completa] |
-| Materiales, equipo o fuente usados | [Completa o «No aplica»] |
-| Controles | [Resume los controles aplicados y sus evidencias, si procede] |
+| Materiales, equipo o fuente usados | Papel vegetal, Portaobjeto, Portaobjeto extensor, material de transferencia autorizado, gradillas, muestra aprobada, gota de sangre propia, bata, guantes y antiséptico  |
+| Controles | 
 | Resultado | [Resume o enlaza al apartado 9.1] |
 | Interpretación | [Resume o enlaza al apartado 12] |
 | Incidencias y acciones | [Resume o enlaza al apartado 11] |
-| Ruta de residuos | [Completa o «No aplica»] |
-| Estado de entrega | [Borrador / pendiente de revisión / entregado / corregido] |
+| Ruta de residuos | No aplica |
+| Estado de entrega | pendiente de revisión / entregado / corregido] |
