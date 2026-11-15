@@ -207,7 +207,7 @@ Incorpora las evidencias visuales indicadas a continuación, siempre que su capt
 - **Pie de foto:** [Identifica el origen/modalidad; añade aumento o escala solo si se conocen.]
 - **Imagen del alumnado:** [Añade la imagen autorizada o escribe «No aplica» y explica.]
 
-![Neutrófilo observado en una extensión sanguínea teñida con panóptico rápido.](../assets/P04/P04_06_neutrofilo.jpg)
+![Neutrófilo observado en una extensión sanguínea teñida con panóptico rápido.](../assets/P04pg<img width="1200" height="1600" alt="P05 08 neutrolfilo, monocitos" src="https://github.com/user-attachments/assets/91d57a72-2df6-4c5d-bf65-967557ac167b" />)
 
 *Figura 6. Neutrófilo en la extensión observada; identifica el origen de la microfotografía.*
 
@@ -229,7 +229,7 @@ Incorpora las evidencias visuales indicadas a continuación, siempre que su capt
 - **Pie de foto:** [Identifica el origen/modalidad; añade aumento o escala solo si se conocen.]
 - **Imagen del alumnado:** [Añade la imagen autorizada o escribe «No aplica» y explica.]
 
-![Eosinófilo observado en una extensión sanguínea teñida con panóptico rápido.](../assets/P04/P04_08_eosinofilo.jpg)
+![Eosinófilo observado en una extensión sanguínea teñida con panóptico rápido.](../assets/P04/<img width="1600" height="1200" alt="Eosinofilo" src="https://github.com/user-attachments/assets/dff9c592-f63d-4b4b-ac3a-16751042faa8" />)
 
 *Figura 8. Eosinófilo en la extensión observada; identifica el origen de la microfotografía.*
 
