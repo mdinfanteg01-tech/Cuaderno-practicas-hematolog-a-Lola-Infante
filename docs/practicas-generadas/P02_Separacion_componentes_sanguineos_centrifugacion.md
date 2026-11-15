@@ -114,7 +114,7 @@ La ficha no dispone del modelo de centrífuga, rotor ni referencia comercial exa
 - **Pareja de trabajo, si procede:** Pareja/Alison
 - **Rol o tarea principal:** Técnico
 - **Modalidad realmente realizada:* Real autorizada 
-- **Código o descripción del material/dataset:** Papel vegetal, pipeta Pasteur, gradilla, tubo, Muestra de sangre E001026048662.
+- **Código o descripción del material/dataset:** Papel vegetal, pipeta Pasteur, gradilla, tubo de ensayo, Muestra de sangre E001026048662.
 
 ## 8. Preparación y análisis inicial [ALUMNADO · RELLENABLE · DURANTE]
 
@@ -256,16 +256,14 @@ Responde individualmente y relaciona cada respuesta con datos, observaciones o i
 
 **1. Procedimiento:** ¿Qué paso del manejo de la muestra o de la centrifugación exigió más cuidado y cómo comprobaste que se hizo correctamente? ¿Qué medidas de bioseguridad específicas aplicaste durante el destaponado de los tubos y el trasvase de líquidos?
 
-   La centrifugadora gira a miles de revoluciones por minutos RPM. Si los tubos colocados en posición opuestas no tienen exactamente la misma masa, se genera un desequilibrio de fuerzas debido a la inercia. Esto puede dañar el rotor del equipo, romper los tubos de vidrio (lo que derramaría material biológico contaminante) y poner en riesgo la seguridad de quienes están en el laboratorio.
-   Como medidas de bioseguridad se comprobaron que los tubos de contrapeso igualaran el peso exacto.
+La centrifugadora gira a miles de revoluciones por minutos RPM. Si los tubos colocados en posición opuestas no tienen exactamente la misma masa, se genera un desequilibrio de fuerzas debido a la inercia. Esto puede dañar el rotor del equipo, romper los tubos de vidrio (lo que derramaría material biológico contaminante) y poner en riesgo la seguridad de quienes están en el laboratorio. Como medidas de bioseguridad se comprobaron que los tubos de contrapeso igualaran el peso exacto.
 
 **2. Interpretación:** ¿Qué fases has distinguido tras la centrifugación y qué representa cada una? Observa detenidamente el color y la claridad del sobrenadante obtenido. ¿Presenta alguna alteración (como tonos rojizos por hemólisis, amarillentos intensos por ictericia o aspecto lechoso por lipemia) en comparación con las fotografías de referencia de un plasma normal?
-
-   Se distinguen tres fases, Plasma que representa un 55%, capa leucocitaria que representa 1% y capa de eritrocitos en el fondo que representan un volumen de 45%. El plasma es de color rojo por hemólisis. El plasma normal es mas transparente, debe ser de un color amarillento translucido. Al contrastar nuestra muestra, se confirma una alteración evidente por tonos rojizos de hemólisis. 
+Se distinguen tres fases, Plasma que representa un 55%, capa leucocitaria que representa 1% y capa de eritrocitos en el fondo que representan un volumen de 45%. El plasma es de color rojo por hemólisis. El plasma normal es mas transparente, debe ser de un color amarillento translucido. Al contrastar nuestra muestra, se confirma una alteración evidente por tonos rojizos de hemólisis. 
 
 **3. Conclusiones:** Localiza en tus observaciones la capa leucoplaquetaria (buffy coat). ¿Por qué su grosor es tan fino en proporción al resto, y qué indicaría desde un punto de vista clínico si en una muestra esa capa fuera inusualmente gruesa? ¿Qué habría ocurrido con las fases observadas si la muestra de sangre se hubiera recogido en un tubo sin anticoagulante (tubo de suero)? Justifica tu respuesta explicando la diferencia fundamental entre plasma y suero.
 
-   La capa leucocitaria es tan fina debido a la proporción numérica y de volumen que ocupan las células que la componen en comparación con el resto de elementos que la componen. Desde el punto de vista clínico, una capa leucocitaria notablemente mas gruesa es una señal de alarma que indica un aumento masivo en el recuento de glóbulos blancos o plaquetas y puede estar debido a una infección o procesos inflamatorios severos, puede ser leucemia (neoplasia hematológica) o por reacciones leucemoides por alergias graves.
+La capa leucocitaria es tan fina debido a la proporción numérica y de volumen que ocupan las células que la componen en comparación con el resto de elementos que la componen. Desde el punto de vista clínico, una capa leucocitaria notablemente mas gruesa es una señal de alarma que indica un aumento masivo en el recuento de glóbulos blancos o plaquetas y puede estar debido a una infección o procesos inflamatorios severos, puede ser leucemia (neoplasia hematológica) o por reacciones leucemoides por alergias graves.
    Si la muestra de sangre se hubiera recogido en un tubo sin anticoagulante(conocido como tubo de suero). Se observarían dos fases, en la superior el suero, liquido sobrenadante translucido, en este caso también se hubiera visto rojizo, pero la diferencia es que esta completamente libre de factores de coagulación y fibrinógenos. En el fondo del tubo veríamos un coagulo retenido que atrapa en su interior glóbulos rojos, glóbulos blancos y plaquetas todos juntos.
    
 **4. Aprendizaje y transferencia:** ¿Qué técnica hematológica o preanalítica requiere separar plasma de células? Explica y justifica tu respuesta.
@@ -281,7 +279,7 @@ Responde individualmente y relaciona cada respuesta con datos, observaciones o i
 | UD / RA / CE | `UD7 / RA07 / CE07.c` |
 | Agrupamiento | pareja/ Alison |
 | Modalidad y origen de evidencia | [Completa] |
-| Materiales, equipo o fuente usados | Papel vegetal, rejillas, tubo de vidrio, pipeta Pasteur |
+| Materiales, equipo o fuente usados | Papel vegetal, rejillas, tubo de ensayo, pipeta Pasteur |
 | Controles |  apartado 9.1 |
 | Resultado | apartado 9.3 |
 | Interpretación |  apartado 12 |
