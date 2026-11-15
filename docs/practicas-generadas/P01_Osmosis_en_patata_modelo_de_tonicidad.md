@@ -109,7 +109,7 @@ Cuando no se enlaza un PNT operativo local, estos documentos públicos aportan c
 - **Pareja de trabajo, si procede:** Pareja / Ambra
 - **Rol o tarea principal:** Técnico
 - **Modalidad realmente realizada:** Real autorizada 
-- **Código o descripción del material/dataset:** [Completa sin incluir datos personales o clínicos]
+- **Código o descripción del material/dataset:** [Patata de Carrefour]
 
 ## 8. Preparación y análisis inicial [ALUMNADO · RELLENABLE · DURANTE]
 
@@ -151,7 +151,7 @@ Analizamos como se desplaza el agua a través de las membranas celulares según 
 
 Resume el resultado y especifica qué procede de observación real, demostración, imagen, dato simulado o análisis documental.
 
-Los cortes de patata sumergida en agua solamente, están mas duros al tacto, mas rígidos, incluso parece haber aumentado de tamaño. Los cortes de patata sumergidas en agua con sal, están mas blandos, flexibles y parecen haber perdido volumen. Debe de ser porque el agua siempre viaja hacia donde hay mas concentración de sal. Así el agua con sal tiene una concentración de solutos mucho mayor que el interior de las células de la patata. El agua de las células salió hacia el vaso para intentar diluir la sal del exterior. Al vaciarse, las células se desinflaron (Plasmosis). El agua pura tiene menos concentración de solutos que el interior de las células de la patata, por osmosis, el agua entró a las células para intentar igualar las concentraciones, inflándolas (turgencias).
+Los cortes de patata sumergida en agua solamente, deberían estar mas duros al tacto, mas rígidos, incluso parecer haber aumentado de tamaño, pero no es así, también han perdido peso y están mas blandos. Ha podido ser porque la patata fuese vieja o almacenada durante mucho tiempo o porque el tiempo de inmersión fuese insuficiente o excesivo. También puede ser por un error durante el secado con papel absorbente previo a la medición final.                                                                                                 Los cortes de patata sumergidas en agua con sal, están mas blandos, flexibles y parecen haber perdido volumen. Debe de ser porque el agua siempre viaja hacia donde hay mas concentración de sal. Así el agua con sal tiene una concentración de solutos mucho mayor que el interior de las células de la patata. El agua de las células salió hacia el vaso para intentar diluir la sal del exterior. Al vaciarse, las células se desinflaron (Plasmosis). El agua pura tiene menos concentración de solutos que el interior de las células de la patata, por osmosis, el agua entró a las células para intentar igualar las concentraciones, inflándolas (turgencias).
 
 ## 10. Evidencias visuales [ALUMNADO · RELLENABLE · DURANTE Y DESPUÉS]
 
@@ -223,19 +223,20 @@ Puedes añadir hasta tres evidencias más si documentan otros pasos relevantes; 
 
 | Incidencia, error o duda | Posible causa | Medida aplicada o propuesta | ¿Afectó al resultado? |
 |---|---|---|---|
-| No se detectaron incidencias| |
+| Error en la patata sumergida en agua, en vez de aumentar de volumen, disminuyo. El resultado refleja la disminución de volumen. |
 
 ## 12. Interpretación técnica [ALUMNADO · RELLENABLE · DESPUÉS]
 
 Interpreta el cambio de masa observado en patata mediante la ósmosis y la tonicidad de los medios hipotónico e hipertónico. Explica qué patrón respaldan los datos, usa los controles y evidencias, y reconoce que el tejido vegetal es solo un modelo conceptual. Separa observación, cálculo, hipótesis e información no disponible; no excedas el alcance didáctico ni formules un diagnóstico individual.
 
 La base que explica los resultados observados es la ley de la osmosis y el principio de la tonicidad diferencial. A nivel celular, el tejido parenquimático de la patata esta compuesto por células vegetales  delimitadas por una membrana plasmática semipermeable. Al someter este tejido a gradiente de concentración se desencadenaron dos respuestas termodinámicas distintas: Endósmosis, lo que impulso un flujo neto de agua hacia el interior de la célula, alcanzando estado de turgencia máxima. Exósmosis, forzando un flujo de agua hacia el exterior del tejido para equilibrar las concentraciones del soluto provocando una perdida de turgencia. 
+Este es el resultado de una practica sin error. En nuestra practica se observa que hay un error, lo que hace que no se produzca endósmosis.
 
 ## 13. Conclusión [ALUMNADO · RELLENABLE · DESPUÉS]
 
 Indica si alcanzaste el objetivo, qué evidencia sostiene la conclusión y qué limitaciones tuvo la modalidad realmente realizada.
 
-Si se alcanzaron los objetivos pero levemente.
+No se alcanzaron los objetivos debido al error ya señalado.
 
 ## 14. Reflexión profesional [ALUMNADO · RELLENABLE · DESPUÉS]
 
@@ -243,11 +244,12 @@ Responde individualmente y relaciona cada respuesta con datos, observaciones o i
 
 **1. Procedimiento:** ¿Qué parte del procedimiento te ha resultado más compleja y cómo lo solucionaste o afrontaste?
 
-   [Respuesta del alumnado]
+Es una practica de poca o ninguna complejidad.
 
 **2. Interpretación:** ¿Qué ha ocurrido en la patata tras 24 horas en las diferentes soluciones? ¿Por qué?
 
-   [Respuesta del alumnado]
+En el medio hipertónico (agua con sal), se confirmó la salida de agua desde el interior celular hacia el medio externo para equilibrar las concentraciones, lo que se evidencio por la disminución de volumen y la perdida de turgencia del tejido (fenomeno analogo a la crenación de los globulos rojos).
+Por otro lado, aunque en el medio hipotónico (agua sola) se esperaba un aumento de volumen por entrada de agua al interior de las células (turgencia, análoga a la hemolisis), la pérdida registrada indica una desviación experimental. Esto demuestra que, para que el transporte osmótico ocurra de forma optima, es indispensable que las membranas celulares mantengan su integridad estructural y que se controlen rigurosamente variables técnicas como el estado de frescura de la muestra y la manipulación durante el secado.
 
 **3. Conclusiones:** Relaciona los fenómenos osmóticos con el resultado de tu práctica.
 
@@ -266,10 +268,10 @@ La Prueba de Fragilidad Osmótica de los Eritrocitos PFO, hace el mismo procedim
 | UD / RA / CE | `UD3 / RA03 / CE03.c` |
 | Agrupamiento |  pareja/ Ambra |
 | Modalidad y origen de evidencia | [Completa] |
-| Materiales, equipo o fuente usados | [Completa o «No aplica»] |
+| Materiales, equipo o fuente usados |Papel vegetal, vasos de precipitado, probeta, vidrio de reloj, balanza, espátula, cuchillo, NaCl, H2O, patata. 
 | Controles | apartado 9.1 |
 | Resultado |  apartado 9.3 |
 | Interpretación |  apartado 12 |
 | Incidencias y acciones |  apartado 11 |
 | Ruta de residuos | No aplica |
-| Estado de entrega |  / pendiente de revisión / entregado / corregido] |
+| Estado de entrega |  / pendiente de revisión / entregado / corregido |
