@@ -262,7 +262,8 @@ Incorpora las evidencias visuales indicadas a continuación, siempre que su capt
 - **Pie de foto:** [Identifica el origen/modalidad; añade aumento o escala solo si se conocen.]
 - **Imagen del alumnado:** [Añade la imagen autorizada o escribe «No aplica» y explica.]
 
-![Plaqueta observada en una extensión sanguínea teñida con panóptico rápido.](../assets/P04/P04_11_plaqueta.jpg)
+![Plaqueta observada en una extensión sanguínea teñida con panóptico rápido.](../assets/P04<img width="1448" height="1086" alt="WhatsApp Image 2026-11-17 at 19 24 45" src="https://github.com/user-attachments/assets/06aa02fb-c68b-495d-bd4b-fd022fe171bb" />
+)
 
 *Figura 11. Plaqueta en la extensión observada; identifica el origen de la microfotografía.*
 
