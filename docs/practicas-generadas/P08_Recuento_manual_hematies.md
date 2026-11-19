@@ -123,9 +123,9 @@ Enumera los recursos que vas a utilizar y los residuos previstos. Escribe «No a
 
 | Elemento | Listado del alumnado |
 |---|---|
-| Instrumental | Papel vegetal, portaobjetos, cubreobjetos, vaso de precipitado, tubo Ependorf, gradillas, camara
-| Equipos | [Enumera los equipos que vas a utilizar] |
-| Reactivos/materiales | [Enumera los reactivos y materiales que vas a utilizar] |
+| Instrumental | Papel vegetal, portaobjetos, cubreobjetos, vaso de precipitado, tubo Eppendorf, gradillas, Cámara de Neubauer, pipetas puntas de pipetas. EPI.
+| Equipos |Microscopio.|
+| Reactivos/materiales | Sangre del laboratorio E001026051345, diluyente liquido de Hayem.|
 
 | Residuo previsto | Tipo |
 |---|---|
@@ -154,7 +154,8 @@ Registra visualmente las operaciones realizadas con **8 evidencias** que cubren 
 - **Pie de foto:** [Describe los materiales y la muestra codificada; indica procedencia y modalidad, sin fotografiar etiquetas identificativas.]
 - **Imagen del alumnado:** [Añade la imagen autorizada o escribe «No aplica» y explica.]
 
-![Materiales preparados para realizar el recuento manual de hematíes.](../assets/P08/P08_01_preparacion.jpg)
+![Materiales preparados para realizar el recuento manual de hematíes.](../assets/P08/P08_<img width="1536" height="2040" alt="image" src="https://github.com/user-attachments/assets/5b3815b8-98df-4d37-8a17-ad1ebf35420e" />
+01_preparacion.jpg)
 
 ### Imagen 2 — Preparación de la dilución
 
@@ -163,7 +164,8 @@ Registra visualmente las operaciones realizadas con **8 evidencias** que cubren 
 - **Pie de foto:** [Indica si se preparó dilución 1:200 o 1:100, el diluyente y la modalidad/origen de la muestra; no muestres datos identificativos.]
 - **Imagen del alumnado:** [Añade la imagen autorizada o escribe «No aplica» y explica.]
 
-![Preparación de la dilución de sangre para el recuento de hematíes.](../assets/P08/P08_02_dilucion.jpg)
+![Preparación de la dilución de sangre para el recuento de hematíes.](../assets/P0<img width="1536" height="2040" alt="image" src="https://github.com/user-attachments/assets/671bbf50-cf15-4d08-961d-c4ef0bfad474" />
+8/P08_02_dilucion.jpg)
 
 ### Imagen 3 — Carga de la cámara
 
@@ -172,7 +174,8 @@ Registra visualmente las operaciones realizadas con **8 evidencias** que cubren 
 - **Pie de foto:** [Documenta la carga y señala si se observan burbujas, rebose o llenado irregular; indica la modalidad y el origen de la imagen.]
 - **Imagen del alumnado:** [Añade la imagen autorizada o escribe «No aplica» y explica.]
 
-![Carga por capilaridad de la cámara Improved Neubauer.](../assets/P08/P08_03_carga_camara.jpg)
+![Carga por capilaridad de la cámara Improved Neubauer.](../assets/P08/P08_03<img width="1536" height="2040" alt="image" src="https://github.com/user-attachments/assets/36d7b8d9-4586-446a-a3ed-49e26d99e008" />
+_carga_camara.jpg)
 
 ### Imagen 4 — Cuadrante 1
 
