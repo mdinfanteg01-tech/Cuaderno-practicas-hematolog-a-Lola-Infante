@@ -110,10 +110,10 @@ El procedimiento específico debe quedar contrastado con el modelo de cámara, e
 - **Nombre y apellidos:** Lola Infante García
 - **Fecha real de realización:** 19/11/2026
 - **Grupo:** 2º LCB
-- **Pareja de trabajo, si procede:** [Indica el nombre o «Trabajo individual»]
+- **Pareja de trabajo, si procede:** Pareja/ Allison
 - **Rol o tarea principal:** Técnico
 - **Modalidad realmente realizada:** Real autorizada  documental; describe]
-- **Código o descripción del material/dataset:** [Completa sin incluir datos personales o clínicos]
+- **Código o descripción del material/dataset:** E001026051345 Sangre Laboratorio.
 
 ## 8. Preparación y análisis inicial [ALUMNADO · RELLENABLE · DURANTE]
 
@@ -123,7 +123,7 @@ Enumera los recursos que vas a utilizar y los residuos previstos. Escribe «No a
 
 | Elemento | Listado del alumnado |
 |---|---|
-| Instrumental | [Enumera el instrumental que vas a utilizar] |
+| Instrumental | Papel vegetal, portaobjetos, cubreobjetos, vaso de precipitado, tubo Ependorf, gradillas, camara
 | Equipos | [Enumera los equipos que vas a utilizar] |
 | Reactivos/materiales | [Enumera los reactivos y materiales que vas a utilizar] |
 
