@@ -1,13 +1,4 @@
----
-
-
-
-
-
-
-
-
-title: "P08 — Recuento manual de hematíes"
+---title: "P08 — Recuento manual de hematíes"
 practice_id: "P08"
 unit: "UD4"
 learning_outcomes: "RA03"
